@@ -6286,6 +6286,7 @@ return array(
     'Termwind\\ValueObjects\\Style' => $vendorDir . '/nunomaduro/termwind/src/ValueObjects/Style.php',
     'Termwind\\ValueObjects\\Styles' => $vendorDir . '/nunomaduro/termwind/src/ValueObjects/Styles.php',
     'Tests\\CreatesApplication' => $baseDir . '/tests/CreatesApplication.php',
+    'Tests\\Feature\\AdminControllerTest' => $baseDir . '/tests/Feature/AdminControllerTest.php',
     'Tests\\TestCase' => $baseDir . '/tests/TestCase.php',
     'Tests\\Unit\\ExampleTest' => $baseDir . '/tests/Unit/ExampleTest.php',
     'Tests\\Unit\\TransactionControllerTest' => $baseDir . '/tests/Unit/TransactionControllerTest.php',

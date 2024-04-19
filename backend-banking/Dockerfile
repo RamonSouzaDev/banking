@@ -16,17 +16,9 @@ RUN apt-get update && apt-get install -y \
     libzip-dev \
     libpq-dev \ 
     && docker-php-ext-install zip
-    
-RUN apt-get install -y build-essential libssl-dev zlib1g-dev libpng-dev libjpeg-dev libfreetype6-dev
-
-# Install and configure GD extension
-RUN docker-php-ext-configure gd --with-freetype --with-jpeg \
-    && docker-php-ext-install gd
 
 # Clear cache
 RUN apt-get clean && rm -rf /var/lib/apt/lists/*
-
-RUN docker-php-ext-install -j$(nproc) gd
 
 # Install PHP extensions
 RUN docker-php-ext-install pdo_mysql mbstring exif pcntl bcmath gd sockets \
@@ -67,9 +59,9 @@ COPY .env.example .env
 COPY docker/php/custom.ini /usr/local/etc/php/conf.d/custom.ini
 
 # Configurar variáveis de ambiente no arquivo .env
-RUN echo "DB_CONNECTION=pgsql" > .env \
-    && echo "DB_HOST=postgres" >> .env \
-    && echo "DB_PORT=5432" >> .env \
+RUN echo "DB_CONNECTION=mysql" > .env \
+    && echo "DB_HOST=db" >> .env \
+    && echo "DB_PORT=3306" >> .env \
     && echo "DB_DATABASE=banking" >> .env \
     && echo "DB_USERNAME=root" >> .env \
     && echo "DB_PASSWORD=root" >> .env
@@ -77,7 +69,6 @@ RUN echo "DB_CONNECTION=pgsql" > .env \
 COPY composer.json composer.lock /var/www/
 
 COPY . /var/www/
-
 # Create the SQLite database file
 RUN touch /var/www/database/database.sqlite && \
     chown -R $user:$user /var/www/database/database.sqlite

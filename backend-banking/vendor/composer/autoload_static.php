@@ -6884,6 +6884,7 @@ class ComposerStaticInit18010c62cd29df7cabc490787f881032
         'Termwind\\ValueObjects\\Style' => __DIR__ . '/..' . '/nunomaduro/termwind/src/ValueObjects/Style.php',
         'Termwind\\ValueObjects\\Styles' => __DIR__ . '/..' . '/nunomaduro/termwind/src/ValueObjects/Styles.php',
         'Tests\\CreatesApplication' => __DIR__ . '/../..' . '/tests/CreatesApplication.php',
+        'Tests\\Feature\\AdminControllerTest' => __DIR__ . '/../..' . '/tests/Feature/AdminControllerTest.php',
         'Tests\\TestCase' => __DIR__ . '/../..' . '/tests/TestCase.php',
         'Tests\\Unit\\ExampleTest' => __DIR__ . '/../..' . '/tests/Unit/ExampleTest.php',
         'Tests\\Unit\\TransactionControllerTest' => __DIR__ . '/../..' . '/tests/Unit/TransactionControllerTest.php',

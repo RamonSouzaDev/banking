@@ -3,7 +3,7 @@ version: "3.3"
 services:
     # image project
     app:
-        container_name: backend-banking
+        container_name: backend-api_app
         build:
             context: . 
             dockerfile: Dockerfile
@@ -24,22 +24,23 @@ services:
             - "8000:80"
         volumes:
             - ./:/var/www
-            - ./docker/nginx-local/:/etc/nginx/conf.d/
+            - ./docker/nginx/:/etc/nginx/conf.d/
         networks:
             - laravel
 
-    # db postgresql
-    postgres:
-        image: postgres:latest
+    # db mysql
+    db:
+        image: mysql:5.7.22
         restart: unless-stopped
         environment:
-            POSTGRES_DB: banking
-            POSTGRES_USER: root
-            POSTGRES_PASSWORD: root
+            MYSQL_DATABASE: banking
+            MYSQL_ROOT_PASSWORD: root
+            MYSQL_PASSWORD: root
+            MYSQL_USER: root
         volumes:
-            - ./.docker/postgresql/dbdata:/var/lib/postgresql/data
+            - ./.docker/mysql/dbdata:/var/lib/mysql
         ports:
-            - "5432:5432"
+            - "3307:3306"
         networks:
             - laravel
 

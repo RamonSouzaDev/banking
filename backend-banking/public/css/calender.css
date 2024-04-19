@@ -1,0 +1,17 @@
+.dark .smaill-calender-home .flatpickr-calendar.animate.inline{background: var(--iq-dark-card-bg);border-color: var(--iq-dark-card-bg); }
+.dark .flatpickr-day.today:hover{background: var(--iq-dark-hover-bg); }
+.dark .flatpickr-day.today{background: var(--iq-dark-body-bg); border-color: var(--iq-dark-body-bg);}
+.dark .flatpickr-day { color: var(--iq-dark-body-text);}
+.dark .flatpickr-day.inRange,.dark .flatpickr-day.prevMonthDay.inRange,.dark .flatpickr-day.nextMonthDay.inRange,.dark .flatpickr-day.today.inRange,.dark .flatpickr-day.prevMonthDay.today.inRange,.dark .flatpickr-day.nextMonthDay.today.inRange,.dark .flatpickr-day:hover,.dark .flatpickr-day.prevMonthDay:hover,.dark .flatpickr-day.nextMonthDay:hover,.dark .flatpickr-day:focus,.dark .flatpickr-day.prevMonthDay:focus,.dark .flatpickr-day.nextMonthDay:focus{
+    background: var(--iq-dark-hover-bg);
+    border-color: var(--iq-dark-body-bg);
+}
+.dark .flatpickr-day.flatpickr-disabled, .dark .flatpickr-day.flatpickr-disabled:hover, .dark .flatpickr-day.prevMonthDay,.dark .flatpickr-day.nextMonthDay,.dark .flatpickr-day.notAllowed,.dark .flatpickr-day.notAllowed.prevMonthDay,.dark .flatpickr-day.notAllowed.nextMonthDay{
+    color: var(--iq-dark-icon-color);
+}
+.dark .flatpickr-months .flatpickr-month{color:var(--iq-body-text)}
+.dark span.flatpickr-weekday{color:var(--iq-body-text);}
+.dark .flatpickr-months .flatpickr-prev-month,.dark .flatpickr-months .flatpickr-next-month{
+    color:var(--iq-dark-icon-color);
+    fill:var(--iq-dark-icon-color);
+}

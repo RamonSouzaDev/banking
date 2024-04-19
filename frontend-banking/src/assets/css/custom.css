@@ -1,0 +1,38 @@
+/*---------------------------------------------------------------------
+Font
+-----------------------------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400,400i,500,700,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli:200,200i,300,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap');
+
+/*---------------------------------------------------------------------
+import Css
+-----------------------------------------------------------------------*/
+@import 'agora.css';
+/* @import "developer.css"; */
+/* @import './typography.css'; */
+.list-actions-th {
+  padding-right: 50px !important;
+  text-align: end;
+}
+.list-actions {
+  direction: rtl;
+}
+
+.list-actions .btn {
+  margin-right: 5px;
+}
+.hidden {
+  display: none;
+}
+
+.d-contents{
+  display: contents !important;
+}
+
+.col-checkbox {
+  width: 50px; 
+}
+.direction-l2r{
+  direction: ltr;
+
+}

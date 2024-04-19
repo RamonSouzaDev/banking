@@ -1,0 +1,54 @@
+version: "3.3"
+
+services:
+    # image project
+    app:
+        container_name: backend-banking
+        build:
+            context: . 
+            dockerfile: Dockerfile
+        restart: unless-stopped
+        working_dir: /var/www/
+        volumes:
+            - ./:/var/www
+        depends_on:
+            - redis
+        networks:
+            - laravel
+
+    # nginx
+    nginx:
+        image: nginx:alpine
+        restart: unless-stopped
+        ports:
+            - "8000:80"
+        volumes:
+            - ./:/var/www
+            - ./docker/nginx-local/:/etc/nginx/conf.d/
+        networks:
+            - laravel
+
+    # db postgresql
+    postgres:
+        image: postgres:latest
+        restart: unless-stopped
+        environment:
+            POSTGRES_DB: banking
+            POSTGRES_USER: root
+            POSTGRES_PASSWORD: root
+        volumes:
+            - ./.docker/postgresql/dbdata:/var/lib/postgresql/data
+        ports:
+            - "5432:5432"
+        networks:
+            - laravel
+
+    # redis
+    redis:
+        image: redis:latest
+        networks:
+            - laravel
+
+networks:
+    laravel:
+        driver: bridge

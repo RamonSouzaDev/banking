@@ -39,13 +39,6 @@ class TransactionController extends Controller
         }
     }
 
-    public function getPendingCheckDeposits($perPage = 10)
-    {
-        return CheckDeposit::where('status', 'pending')
-                        ->orderBy('created_at', 'asc')
-                        ->paginate($perPage);
-    }
-
     public function listPendingDeposits(Request $request)
     {
         $perPage = $request->input('perPage', 10);

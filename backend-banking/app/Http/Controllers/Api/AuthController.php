@@ -99,8 +99,4 @@ class AuthController extends Controller
         }
     }
 
-    public function index()
-    {
-        return response()->json(['message' => 'Not implemented for API.'], 501);
-    }
 }

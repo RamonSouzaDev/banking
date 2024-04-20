@@ -15,7 +15,7 @@ class CheckDepositFactory extends Factory
     public function definition()
     {
         return [
-            'user_id' => User::inRandomOrder()->first()->id,
+            'user_id' => User::factory(),
             'picture' => $this->faker->imageUrl(),
             'amount' => $this->faker->randomFloat(2, 100, 5000),
             'status' => $this->faker->randomElement(['pending', 'approved', 'rejected']),

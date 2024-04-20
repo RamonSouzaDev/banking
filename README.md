@@ -50,7 +50,7 @@ cd "project name"
 
 1. Enter the backend container and run the command ./vendor/bin/phpunit --coverage-html coverage
 
-![image](https://github.com/RamonSouzaDev/To-Do-List/assets/47437727/8ac379e9-6cd2-461a-a9b4-129b8bc0adb1)
+![WhatsApp Image 2024-04-20 at 09 33 30](https://github.com/RamonSouzaDev/banking/assets/47437727/aa316382-8b93-4fdc-a250-d2225a456ae2)
 
 
 **Seeders**

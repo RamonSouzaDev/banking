@@ -28,22 +28,23 @@ Click here:
 
 
 1. Clone the repository:
-git clone git@github.com:RamonSouzaDev/bancking.git
+git clone git@github.com:RamonSouzaDev/banking.git
 
 2. Enter the project folder
-cd "project name"
+cd "banking"
 
 **Running via docker** <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 3. Run the commands to upload the backend environment
-./run-docker-backend.sh up --build
-./run-docker-backend.sh down
+cd "backend-banking"
+in the terminal run the command : docker compose up --build
 
-4. Run the commands to upload the frontend environment
-./run-docker-frontend.sh up --build
-./run-docker-frontend.sh down
+5. Run the commands to upload the frontend environment
+cd "backend-frontend"
+in the terminal run the command : docker compose up --build
 
-5. Open a third tab in your terminal and run the command
+6. Open a third tab in your terminal and run the command
+Execute this command inside folder "backend-banking" to generate librarys and generete composer to laravel
 ./start-backend.sh
 
 **Unit Tests** 💡

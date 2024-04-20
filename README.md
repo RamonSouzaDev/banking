@@ -56,10 +56,13 @@ cd "project name"
 **Seeders**
 Run the commands below to generate data
 
-1. php artisan db:seed --class=TaskSeeder
+1. php artisan db:seed --class=UserSeeder
+2. php artisan db:seed --class=TransactionsTableSeeder
+3. php artisan db seed --class=CheckDepositsTableSeeder
+4. php artisan db seed --class=AccountBalanceSeeder
 
 - **URL** 🏁🏁🏁
-http://192.168.144.2:8080/
+http://localhost:8080/
 
 - **Routes**
 

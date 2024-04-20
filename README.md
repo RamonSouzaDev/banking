@@ -19,7 +19,10 @@
 
 
 <h1 align="center">Welcome to BNB </h1>
-![loader](https://github.com/RamonSouzaDev/banking/assets/47437727/5bc0926f-569a-47aa-b548-66a2092eae7f)
+
+## Banking
+
+![logo-bnb(1)(1)](https://github.com/RamonSouzaDev/banking/assets/47437727/b377fd53-4563-4805-a434-8be360ba80b6)
 
 
 - **Installing Project**

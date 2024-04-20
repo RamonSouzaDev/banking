@@ -28,38 +28,42 @@ Click here:
 
 
 1. Clone the repository:
-git clone git@github.com:RamonSouzaDev/bancking.git
+git clone git@github.com:RamonSouzaDev/banking.git
 
 2. Enter the project folder
-cd "project name"
+cd "banking"
 
 **Running via docker** <p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https:/ /raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 3. Run the commands to upload the backend environment
-./run-docker-backend.sh up --build
-./run-docker-backend.sh down
+cd "backend-banking"
+in the terminal run the command : docker compose up --build
 
-4. Run the commands to upload the frontend environment
-./run-docker-frontend.sh up --build
-./run-docker-frontend.sh down
+5. Run the commands to upload the frontend environment
+cd "backend-frontend"
+in the terminal run the command : docker compose up --build
 
-5. Open a third tab in your terminal and run the command
+6. Open a third tab in your terminal and run the command
+Execute this command inside folder "backend-banking" to generate librarys and generete composer to laravel
 ./start-backend.sh
 
 **Unit Tests** 💡
 
 1. Enter the backend container and run the command ./vendor/bin/phpunit --coverage-html coverage
 
-![image](https://github.com/RamonSouzaDev/To-Do-List/assets/47437727/8ac379e9-6cd2-461a-a9b4-129b8bc0adb1)
+![WhatsApp Image 2024-04-20 at 09 33 30](https://github.com/RamonSouzaDev/banking/assets/47437727/aa316382-8b93-4fdc-a250-d2225a456ae2)
 
 
 **Seeders**
 Run the commands below to generate data
 
-1. php artisan db:seed --class=TaskSeeder
+1. php artisan db:seed --class=UserSeeder
+2. php artisan db:seed --class=TransactionsTableSeeder
+3. php artisan db seed --class=CheckDepositsTableSeeder
+4. php artisan db seed --class=AccountBalanceSeeder
 
 - **URL** 🏁🏁🏁
-http://192.168.144.2:8080/
+http://localhost:8080/
 
 - **Routes**
 

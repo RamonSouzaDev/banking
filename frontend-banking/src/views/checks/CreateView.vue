@@ -104,8 +104,8 @@ export default {
         }
       })
         .then((response) => {
-          toast.success('Check created with success!')
           setTimeout(() => {
+            toast.success('Check created with success!')
             core.startLoader()
           }, 1500)
           setTimeout(() => {
@@ -114,7 +114,9 @@ export default {
         })
         .catch((error) => {
           if (error.response && error.response.status === 401) {
-            toast.error('Log in !');
+            setTimeout(() => {
+              toast.error('Log in !');
+              }, 1500)
             this.$router.push('/auth')
           }
           console.error('Error creating deposit check:', error)

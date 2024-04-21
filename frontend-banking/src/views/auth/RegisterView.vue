@@ -40,14 +40,7 @@
         userData: {
           email: '',
           pass: ''
-        },
-        items: [
-          {
-            image: require('@/assets/images/net4cargo_logo-white.png'),
-            title: "",
-            description: "Desbloqueando processos, conectando possibilidades."
-          },
-        ]
+        } 
       }
     },
     methods: {
@@ -64,10 +57,14 @@
               if (response.status == 201) {
                 localStorage.setItem('token', response.data.token)
                 localStorage.setItem('name', response.data.name)
-                toast.success('Logado com sucesso!')
+                setTimeout(() => {
+                toast.success('Logged in successfully!')
+              }, 1500)
                 router.push('/')
               } else {
-                toast.error('Error to register, try again!')
+                setTimeout(() => {
+                  toast.error('Error to register, try again!')
+              }, 1500)
                 localStorage.removeItem('token')
               }
             })

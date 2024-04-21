@@ -75,11 +75,16 @@ export default {
                 headers: { Authorization: `Bearer ${token}` }
             })
                 .then(response => {
-                    toast.success('Deposit approved successfully!');
+                    setTimeout(() => {
+                        toast.success('Deposit approved successfully!');
+                    }, 1500)
+
                     this.login()
                 })
                 .catch(error => {
-                    toast.error('Failed to approve deposit');
+                    setTimeout(() => {
+                        toast.error('Failed to approve deposit');
+                    }, 1500)
                     console.error('Error approving deposit:', error);
                 });
         },
@@ -92,10 +97,14 @@ export default {
                 headers: { Authorization: `Bearer ${token}` }
             })
                 .then(response => {
-                    toast.success('Deposit rejected successfully!');
+                    setTimeout(() => {
+                        toast.success('Deposit rejected successfully!');
+                    }, 1500)
                 })
                 .catch(error => {
-                    toast.error('Failed to reject deposit');
+                    setTimeout(() => {
+                        toast.error('Failed to reject deposit');
+                    }, 1500)
                     console.error('Error rejecting deposit:', error);
                 });
         },

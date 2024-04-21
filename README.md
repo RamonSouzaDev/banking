@@ -47,7 +47,7 @@ cd "backend-banking"
 in the terminal run the command : docker compose up --build
 
 5. Run the commands to upload the frontend environment
-cd "backend-frontend"
+cd "frontend-banking"
 in the terminal run the command : docker compose up --build
 
 6. Open a third tab in your terminal and run the command

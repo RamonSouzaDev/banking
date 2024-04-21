@@ -36,14 +36,7 @@ export default {
       userData: {
         email: '',
         pass: ''
-      },
-      items: [
-        {
-          image: require('@/assets/images/net4cargo_logo-white.png'),
-          title: "",
-          description: "Desbloqueando processos, conectando possibilidades."
-        },
-      ]
+      }
     }
   },
   methods: {
@@ -61,15 +54,17 @@ export default {
             if (response.status == 200) {
               localStorage.setItem('token', response.data.token)
               localStorage.setItem('name', response.data.name)
-              toast.success('Logado com sucesso!')
+              setTimeout(() => {
+                toast.success('Logged in successfully!')
+              }, 1500)
               router.push('/')
             } else {
-              toast.error('Usuario e/ou senha invalidos!')
+              toast.error('Invalid username and/or password!')
               localStorage.removeItem('token')
             }
           })
           .catch((e) => {
-            toast.error('Usuario e/ou senha invalidos!')
+            toast.error('Invalid username and/or password!')
             localStorage.removeItem('token')
           })
       } catch (e) { }

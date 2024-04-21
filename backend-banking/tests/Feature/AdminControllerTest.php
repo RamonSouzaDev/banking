@@ -68,17 +68,16 @@ class AdminControllerTest extends TestCase
         $response->assertJsonCount(0, 'data');
     }
 
-/** @test */
-public function it_handles_months_with_no_incomes()
-{
-    $user = User::factory()->create();
-    $this->actingAs($user, 'api');
+    /** @test */
+    public function it_handles_months_with_no_incomes()
+    {
+        $user = User::factory()->create();
+        $this->actingAs($user, 'api');
 
-    $monthWithoutTransactions = now()->subYear()->format('Y-m');
-    $response = $this->getJson("/api/incomes?month={$monthWithoutTransactions}");
+        $monthWithoutTransactions = now()->subYear()->format('Y-m');
+        $response = $this->getJson("/api/incomes?month={$monthWithoutTransactions}");
 
-    $response->assertStatus(200);
-    $response->assertJsonCount(0, 'data'); // Ensures no incomes are returned
-}
-
+        $response->assertStatus(200);
+        $response->assertJsonCount(0, 'data'); // Ensures no incomes are returned
+    }
 }

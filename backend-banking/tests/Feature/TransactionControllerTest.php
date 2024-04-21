@@ -136,7 +136,7 @@ class TransactionControllerTest extends TestCase
         $response = $this->getJson(route('transactions.getChecks') . '?month=' . now()->format('Y-m'));
 
         $response->assertStatus(200);
-        $response->assertJsonCount(1, 'data'); // Only checks from the current month are returned
+        $response->assertJsonCount(1, 'data'); 
     }
 
     /** @test */
@@ -149,7 +149,7 @@ class TransactionControllerTest extends TestCase
         $response = $this->getJson(route('transactions.getChecks') . '?perPage=10');
 
         $response->assertStatus(200);
-        $response->assertJsonCount(10, 'data'); // Checks that pagination respects the 'perPage' request parameter
+        $response->assertJsonCount(10, 'data');
     }
 
     /** @test */
@@ -197,9 +197,9 @@ class TransactionControllerTest extends TestCase
         CheckDeposit::factory()->count(15)->for($user)->state(['status' => 'pending'])->create();
 
         $service = new TransactionService();
-        $pendingDeposits = $service->getPendingCheckDeposits(10);  // Setting up pagination
+        $pendingDeposits = $service->getPendingCheckDeposits(10);  
 
-        $this->assertEquals(10, $pendingDeposits->count());  // First page should have 10 items
-        $this->assertEquals(2, $pendingDeposits->lastPage());  // Ensure there are two pages
+        $this->assertEquals(10, $pendingDeposits->count());
+        $this->assertEquals(2, $pendingDeposits->lastPage());
     }
 }

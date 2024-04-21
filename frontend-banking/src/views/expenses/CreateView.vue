@@ -57,12 +57,17 @@ export default {
         })
         .catch(error => {
           console.error('Error fetching balance:', error);
-          toast.error('Could not fetch balance. Please refresh.');
+          setTimeout(() => {
+            toast.error('Could not fetch balance. Please refresh.');
+          }, 1500)
         });
     },
     submitPurchase() {
       if (!this.purchase.amount || !this.purchase.description) {
-        toast.error('Please fill all fields.');
+
+        setTimeout(() => {
+          toast.error('Please fill all fields.');
+        }, 1500)
         return;
       }
       axios.post('/api/purchase', this.purchase, {
@@ -71,17 +76,24 @@ export default {
         }
       })
         .then((response) => {
-          toast.success('Purchase created successfully!');
+
+          setTimeout(() => {
+            toast.success('Purchase created successfully!');
+          }, 1500)
           this.currentBalance = parseFloat(response.data.new_balance);
         })
         .catch((error) => {
           if (error.response.status === 400) {
-            toast.error('Insufficient funds.');
-          } else {
-            console.error('Error creating purchase:', error);
-            toast.error('Error creating purchase. Please try again.' + error);
-          }
 
+            setTimeout(() => {
+              toast.error('Insufficient funds.');
+            }, 1500)
+          } else {
+            setTimeout(() => {
+              toast.error('Error creating purchase. Please try again.' + error);
+            }, 1500)
+
+          }
 
         });
     }

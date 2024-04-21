@@ -25,6 +25,10 @@
 ![logo-bnb(1)(1)](https://github.com/RamonSouzaDev/banking/assets/47437727/b377fd53-4563-4805-a434-8be360ba80b6)
 
 
+   ##Admin user 
+Email : admin@banking.com
+Password: senha
+
 - **Installing Project**
 
 # Environment setup video on Youtube

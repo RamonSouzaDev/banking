@@ -29,9 +29,9 @@
 
 # Environment setup video on Youtube
 
-Click here: 
+Click here: https://youtu.be/nhZv94lVTtA
 
-
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/nhZv94lVTtA)
 
 
 1. Clone the repository:

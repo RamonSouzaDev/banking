@@ -67,10 +67,6 @@ jobs:
       run: php artisan migrate --env=testing
       working-directory: backend-banking
 
-    - name: Generate Passport
-      run: php artisan passport:install --env=testing
-      working-directory: backend-banking
-
     - name: Execute tests (Unit and Feature tests) via PHPUnit
       env:
         DB_CONNECTION: sqlite

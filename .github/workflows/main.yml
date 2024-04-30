@@ -14,6 +14,9 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
+    - name: Navigate to frontend-banking directory
+      run: cd frontend-banking
+
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:

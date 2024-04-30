@@ -14,19 +14,19 @@ jobs:
     - name: Checkout Repository
       uses: actions/checkout@v3
 
-    - name: Navigate to frontend-banking directory
-      run: cd frontend-banking
-
-    - name: List files in frontend-banking directory
-      run: ls -la
-
     - name: Set up Node.js
       uses: actions/setup-node@v3
       with:
         node-version: '18'
 
+    - name: List files in frontend-banking directory
+      run: ls -la
+      working-directory: frontend-banking
+
     - name: Install Dependencies
       run: npm install --force
+      working-directory: frontend-banking
 
     - name: Build
       run: npm run build
+      working-directory: frontend-banking

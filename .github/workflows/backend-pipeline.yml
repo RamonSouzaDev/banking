@@ -1,0 +1,75 @@
+name: BACKEND CI/CD
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  laravel-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Setup PHP
+      uses: shivammathur/setup-php@15c43e89cdef867065b0213be354c2841860869e
+      with:
+        php-version: '8.2'
+
+    - name: Copy .env.testing
+      run: php -r "file_exists('.env') || copy('.env.testing', '.env');"
+      working-directory: backend-banking
+
+    - name: Install Composer Dependencies
+      run: composer install --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
+      working-directory: backend-banking
+
+    - name: Optimize Autoload
+      run: composer dump-autoload
+      working-directory: backend-banking
+
+    - name: Install Doctrine DBAL
+      run: composer require doctrine/dbal
+      working-directory: backend-banking
+      
+    - name: Generate key
+      run: php artisan key:generate
+      working-directory: backend-banking
+
+    - name: Generate Key for Testing
+      run: php artisan key:generate --env=testing
+      working-directory: backend-banking
+
+    - name: Directory Permissions
+      run: chmod -R 777 storage bootstrap/cache
+      working-directory: backend-banking
+
+    - name: Create Database
+      run: |
+        mkdir -p database
+        touch database/database.sqlite
+      working-directory: backend-banking
+
+    - name: Debug .env in Testing
+      run: cat .env
+      working-directory: backend-banking
+
+    - name: Debug .env.testing in Testing
+      run: cat .env.testing
+      working-directory: backend-banking
+
+    - name: Run Migrations
+      env:
+        DB_CONNECTION: sqlite
+        DB_DATABASE: database/database.sqlite
+      run: php artisan migrate --env=testing
+      working-directory: backend-banking
+
+    - name: Execute tests (Unit and Feature tests) via PHPUnit
+      env:
+        DB_CONNECTION: sqlite
+        DB_DATABASE: database/database.sqlite
+      run: vendor/bin/phpunit tests
+      working-directory: backend-banking

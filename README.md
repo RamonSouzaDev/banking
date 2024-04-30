@@ -58,11 +58,15 @@ in the terminal run the command : docker compose up --build
 Execute this command inside folder "backend-banking" to generate librarys and generete composer to laravel
 ./start-backend.sh
 
-**Unit Tests** 💡
+**Backend Unit Tests** 💡
 
 1. Enter the backend container and run the command ./vendor/bin/phpunit --coverage-html coverage
 
 ![WhatsApp Image 2024-04-20 at 09 33 30](https://github.com/RamonSouzaDev/banking/assets/47437727/aa316382-8b93-4fdc-a250-d2225a456ae2)
+
+**Frontend Unit Tests** 💡
+
+1. Enter the frontend container and run the command npm run test:unit 
 
 
 **Seeders**

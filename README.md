@@ -66,6 +66,8 @@ Execute this command inside folder "backend-banking" to generate librarys and ge
 
 **Frontend Unit Tests** 💡
 
+![tests](https://github.com/RamonSouzaDev/banking/assets/47437727/f3c8425a-67d6-4cc2-97a5-bef4e6663a83)
+
 1. Enter the frontend container and run the command npm run test:unit 
 
 

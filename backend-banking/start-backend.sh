@@ -9,7 +9,9 @@ CREATE_DB_COMMAND="CREATE DATABASE IF NOT EXISTS banking;"
 docker exec -i backend-banking-db-1 mysql -uroot -proot -e "$CREATE_DB_COMMAND"
 
 echo "Database creation checked/completed."
+
 # Executar comandos
+
 docker exec -i backend-api_app sh -c "composer dump-autoload"
 docker exec -i backend-api_app sh -c "php artisan config:clear"
 docker exec -i backend-api_app sh -c "php artisan cache:clear"

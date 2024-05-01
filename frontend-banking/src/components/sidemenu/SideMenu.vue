@@ -44,7 +44,6 @@ export default defineComponent({
         axios.get('http://localhost:8000/api/user', {
           headers: { Authorization: `Bearer ${token}` }
         }).then(response => {
-          console.log('teste')
           if (response.data.email == "admin@banking.com") {
             menu.value.push({ title: 'Admin', icon: 'ri-settings-3-line', route: '/admin' });
           }

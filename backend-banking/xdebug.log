@@ -1,0 +1,3248 @@
+[21] Log opened at 2024-04-30 18:24:49.314383
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[41] Log opened at 2024-04-30 18:24:51.384323
+[41] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.41'
+[41] Log closed at 2024-04-30 18:24:51.501406
+
+[21] Log closed at 2024-04-30 18:24:51.520747
+
+[50] Log opened at 2024-04-30 18:24:51.571648
+[50] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.50'
+[50] Log closed at 2024-04-30 18:24:51.664687
+
+[59] Log opened at 2024-04-30 18:24:51.713520
+[59] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.59'
+[59] Log closed at 2024-04-30 18:24:51.808636
+
+[68] Log opened at 2024-04-30 18:24:51.861179
+[68] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.68'
+[68] Log closed at 2024-04-30 18:24:51.954466
+
+[77] Log opened at 2024-04-30 18:24:52.002975
+[77] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.77'
+[97] Log opened at 2024-04-30 18:24:53.299030
+[97] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.97'
+[97] Log closed at 2024-04-30 18:24:53.416909
+
+[77] Log closed at 2024-04-30 18:24:53.437276
+
+[110] Log opened at 2024-04-30 18:24:53.489774
+[110] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.110'
+[110] Log closed at 2024-04-30 18:24:53.678115
+
+[118] Log opened at 2024-04-30 18:24:53.727697
+[118] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.118'
+[118] Log closed at 2024-04-30 18:24:53.822494
+
+[127] Log opened at 2024-04-30 18:24:53.871600
+[127] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.127'
+[127] Log closed at 2024-04-30 18:24:54.457153
+
+[136] Log opened at 2024-04-30 18:24:54.508580
+[136] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.136'
+[136] Log closed at 2024-04-30 18:24:54.620773
+
+[146] Log opened at 2024-04-30 18:24:54.670469
+[146] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.146'
+[146] Log closed at 2024-04-30 18:24:54.779503
+
+[168] Log opened at 2024-04-30 18:24:54.947739
+[168] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.168'
+[168] Log closed at 2024-04-30 18:24:58.351772
+
+[184] Log opened at 2024-04-30 20:50:32.636356
+[184] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.184'
+[184] Log closed at 2024-04-30 20:50:32.685828
+
+[7] Log opened at 2024-05-01 01:28:30.066443
+[8] Log opened at 2024-05-01 01:28:30.066440
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:28:30.238064
+
+[7] Log closed at 2024-05-01 01:28:30.238070
+
+[7] Log opened at 2024-05-01 01:28:30.239295
+[8] Log opened at 2024-05-01 01:28:30.239295
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:28:30.385290
+
+[7] Log closed at 2024-05-01 01:28:30.385975
+
+[8] Log opened at 2024-05-01 01:32:14.856310
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:32:14.933051
+
+[7] Log opened at 2024-05-01 01:32:14.933592
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:32:15.309030
+
+[8] Log opened at 2024-05-01 01:32:18.436984
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:32:18.504216
+
+[7] Log opened at 2024-05-01 01:32:18.505312
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:32:18.801318
+
+[8] Log opened at 2024-05-01 01:32:22.504901
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:32:22.572406
+
+[7] Log opened at 2024-05-01 01:32:22.573478
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:32:22.885933
+
+[8] Log opened at 2024-05-01 01:33:28.171250
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:33:28.236957
+
+[7] Log opened at 2024-05-01 01:33:28.238224
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:33:28.530427
+
+[8] Log opened at 2024-05-01 01:33:40.664873
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:33:40.736289
+
+[7] Log opened at 2024-05-01 01:33:40.737346
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:33:41.037740
+
+[8] Log opened at 2024-05-01 01:33:49.614955
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:33:49.685201
+
+[7] Log opened at 2024-05-01 01:33:49.686119
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:33:49.973118
+
+[22] Log opened at 2024-05-01 01:34:11.164750
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[42] Log opened at 2024-05-01 01:34:13.539090
+[42] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.42'
+[42] Log closed at 2024-05-01 01:34:13.674227
+
+[22] Log closed at 2024-05-01 01:34:13.698407
+
+[51] Log opened at 2024-05-01 01:34:13.758918
+[51] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.51'
+[51] Log closed at 2024-05-01 01:34:13.869830
+
+[60] Log opened at 2024-05-01 01:34:13.934921
+[60] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.60'
+[60] Log closed at 2024-05-01 01:34:14.050424
+
+[69] Log opened at 2024-05-01 01:34:14.115250
+[69] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.69'
+[69] Log closed at 2024-05-01 01:34:14.221297
+
+[77] Log opened at 2024-05-01 01:34:14.285923
+[77] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.77'
+[97] Log opened at 2024-05-01 01:34:15.870352
+[97] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.97'
+[97] Log closed at 2024-05-01 01:34:16.005294
+
+[77] Log closed at 2024-05-01 01:34:16.029064
+
+[109] Log opened at 2024-05-01 01:34:16.088049
+[109] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.109'
+[109] Log closed at 2024-05-01 01:34:16.305816
+
+[118] Log opened at 2024-05-01 01:34:16.370260
+[118] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.118'
+[118] Log closed at 2024-05-01 01:34:16.481024
+
+[127] Log opened at 2024-05-01 01:34:16.545670
+[127] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.127'
+[127] Log closed at 2024-05-01 01:34:17.152791
+
+[136] Log opened at 2024-05-01 01:34:17.215276
+[136] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.136'
+[136] Log closed at 2024-05-01 01:34:17.343229
+
+[146] Log opened at 2024-05-01 01:34:17.405907
+[146] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.146'
+[146] Log closed at 2024-05-01 01:34:17.528523
+
+[169] Log opened at 2024-05-01 01:34:17.690782
+[169] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.169'
+[169] Log closed at 2024-05-01 01:34:21.648478
+
+[8] Log opened at 2024-05-01 01:34:29.020161
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:29.095647
+
+[7] Log opened at 2024-05-01 01:34:29.096132
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:29.456118
+
+[8] Log opened at 2024-05-01 01:34:29.477968
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 01:34:29.487144
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 01:34:29.588164
+
+[8] Log opened at 2024-05-01 01:34:29.588927
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 01:34:29.602570
+
+[7] Log opened at 2024-05-01 01:34:29.603390
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 01:34:29.684726
+
+[8] Log opened at 2024-05-01 01:34:29.685409
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 01:34:29.743722
+
+[7] Log opened at 2024-05-01 01:34:29.744704
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 01:34:29.831129
+
+[7] Log closed at 2024-05-01 01:34:29.878440
+
+[8] Log opened at 2024-05-01 01:34:31.441303
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:31.526046
+
+[7] Log opened at 2024-05-01 01:34:31.527255
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:31.611711
+
+[8] Log opened at 2024-05-01 01:34:37.851012
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:37.920567
+
+[7] Log opened at 2024-05-01 01:34:37.921487
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:38.208608
+
+[8] Log opened at 2024-05-01 01:34:40.065265
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:40.136776
+
+[7] Log opened at 2024-05-01 01:34:40.137162
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:40.443855
+
+[8] Log opened at 2024-05-01 01:34:41.658556
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:41.736652
+
+[7] Log opened at 2024-05-01 01:34:41.736758
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:42.033728
+
+[8] Log opened at 2024-05-01 01:34:46.049422
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:46.126935
+
+[7] Log opened at 2024-05-01 01:34:46.127905
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:46.438737
+
+[8] Log opened at 2024-05-01 01:34:49.910648
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:49.984851
+
+[7] Log opened at 2024-05-01 01:34:49.985440
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:50.282134
+
+[8] Log opened at 2024-05-01 01:34:54.078496
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:34:54.158596
+
+[7] Log opened at 2024-05-01 01:34:54.166003
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:34:54.485357
+
+[8] Log opened at 2024-05-01 01:35:19.601940
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:35:19.673893
+
+[7] Log opened at 2024-05-01 01:35:19.674627
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:35:19.961655
+
+[8] Log opened at 2024-05-01 01:35:25.703575
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:35:25.778704
+
+[7] Log opened at 2024-05-01 01:35:25.779119
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:35:26.076134
+
+[8] Log opened at 2024-05-01 01:36:33.957807
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:36:34.029256
+
+[7] Log opened at 2024-05-01 01:36:34.030442
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:36:34.323533
+
+[8] Log opened at 2024-05-01 01:40:35.334694
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 01:40:35.352826
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 01:40:35.452670
+
+[8] Log opened at 2024-05-01 01:40:35.453358
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 01:40:35.478121
+
+[7] Log opened at 2024-05-01 01:40:35.478868
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 01:40:35.592677
+
+[7] Log closed at 2024-05-01 01:40:35.618235
+
+[172] Log opened at 2024-05-01 01:42:28.871815
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:42:28.964673
+
+[8] Log opened at 2024-05-01 01:42:28.964552
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:42:29.280073
+
+[7] Log opened at 2024-05-01 01:42:34.278581
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:42:34.391363
+
+[172] Log opened at 2024-05-01 01:42:34.392835
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:42:34.730163
+
+[8] Log opened at 2024-05-01 01:51:11.432036
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:51:11.512029
+
+[7] Log opened at 2024-05-01 01:51:11.512551
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:51:11.839012
+
+[172] Log opened at 2024-05-01 01:52:07.434897
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:52:07.521558
+
+[8] Log opened at 2024-05-01 01:52:07.521890
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:52:07.877484
+
+[7] Log opened at 2024-05-01 01:52:47.275087
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:52:47.362247
+
+[172] Log opened at 2024-05-01 01:52:47.363078
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:52:47.715829
+
+[8] Log opened at 2024-05-01 01:52:47.741418
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 01:52:47.755911
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log opened at 2024-05-01 01:52:47.755978
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[8] Log closed at 2024-05-01 01:52:47.845474
+
+[8] Log opened at 2024-05-01 01:52:47.848820
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[172] Log closed at 2024-05-01 01:52:47.870634
+
+[7] Log closed at 2024-05-01 01:52:47.870996
+
+[172] Log opened at 2024-05-01 01:52:47.871784
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[7] Log opened at 2024-05-01 01:52:47.872663
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 01:52:47.978786
+
+[7] Log closed at 2024-05-01 01:52:48.011568
+
+[172] Log closed at 2024-05-01 01:52:48.021247
+
+[8] Log opened at 2024-05-01 01:53:10.601817
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:53:10.679823
+
+[7] Log opened at 2024-05-01 01:53:10.680836
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:53:10.755679
+
+[172] Log opened at 2024-05-01 01:58:57.375057
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:58:57.484738
+
+[8] Log opened at 2024-05-01 01:58:57.488816
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:58:58.074381
+
+[7] Log opened at 2024-05-01 01:58:58.117447
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log opened at 2024-05-01 01:58:58.120355
+[172] Log opened at 2024-05-01 01:58:58.120355
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:58:58.229352
+
+[172] Log opened at 2024-05-01 01:58:58.240460
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[7] Log closed at 2024-05-01 01:58:58.244299
+
+[7] Log opened at 2024-05-01 01:58:58.248960
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 01:58:58.249700
+
+[8] Log opened at 2024-05-01 01:58:58.251755
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:58:58.393230
+
+[7] Log closed at 2024-05-01 01:58:58.423802
+
+[172] Log closed at 2024-05-01 01:58:58.425609
+
+[8] Log opened at 2024-05-01 01:59:01.368652
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:59:01.451326
+
+[7] Log opened at 2024-05-01 01:59:01.452419
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:59:01.518625
+
+[172] Log opened at 2024-05-01 01:59:41.827826
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:59:41.904118
+
+[8] Log opened at 2024-05-01 01:59:41.905126
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:59:42.441947
+
+[7] Log opened at 2024-05-01 01:59:53.235397
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 01:59:53.297327
+
+[172] Log opened at 2024-05-01 01:59:53.298588
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:59:53.855019
+
+[8] Log opened at 2024-05-01 01:59:53.888147
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 01:59:53.889135
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log opened at 2024-05-01 01:59:53.893462
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[8] Log closed at 2024-05-01 01:59:53.985324
+
+[8] Log opened at 2024-05-01 01:59:53.986306
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 01:59:54.021137
+
+[172] Log closed at 2024-05-01 01:59:54.025702
+
+[7] Log opened at 2024-05-01 01:59:54.031547
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log opened at 2024-05-01 01:59:54.032108
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[8] Log closed at 2024-05-01 01:59:54.116713
+
+[172] Log closed at 2024-05-01 01:59:54.168093
+
+[7] Log closed at 2024-05-01 01:59:54.174741
+
+[8] Log opened at 2024-05-01 01:59:59.791526
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 01:59:59.867299
+
+[172] Log opened at 2024-05-01 01:59:59.868074
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 01:59:59.951553
+
+[7] Log opened at 2024-05-01 02:00:44.273528
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:00:44.358959
+
+[8] Log opened at 2024-05-01 02:00:44.359635
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:00:44.728157
+
+[172] Log opened at 2024-05-01 02:00:44.788214
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[7] Log opened at 2024-05-01 02:00:44.788423
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log opened at 2024-05-01 02:00:44.788692
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[172] Log closed at 2024-05-01 02:00:44.892698
+
+[7] Log closed at 2024-05-01 02:00:44.893543
+
+[172] Log opened at 2024-05-01 02:00:44.893787
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[7] Log opened at 2024-05-01 02:00:44.894537
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 02:00:44.895712
+
+[8] Log opened at 2024-05-01 02:00:44.898900
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[172] Log closed at 2024-05-01 02:00:45.033389
+
+[7] Log closed at 2024-05-01 02:00:45.039185
+
+[8] Log closed at 2024-05-01 02:00:45.043111
+
+[7] Log opened at 2024-05-01 02:02:43.199502
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log opened at 2024-05-01 02:02:43.199503
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[8] Log opened at 2024-05-01 02:02:43.199534
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:02:43.365932
+
+[172] Log closed at 2024-05-01 02:02:43.367303
+
+[7] Log closed at 2024-05-01 02:02:43.394661
+
+[8] Log opened at 2024-05-01 02:02:43.402021
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[172] Log opened at 2024-05-01 02:02:43.402339
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[7] Log opened at 2024-05-01 02:02:43.404953
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log closed at 2024-05-01 02:02:43.602148
+
+[8] Log closed at 2024-05-01 02:02:43.614607
+
+[7] Log closed at 2024-05-01 02:02:43.619454
+
+[172] Log opened at 2024-05-01 02:02:47.092125
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[8] Log opened at 2024-05-01 02:02:47.095858
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 02:02:47.100686
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log closed at 2024-05-01 02:02:47.201179
+
+[8] Log closed at 2024-05-01 02:02:47.201906
+
+[172] Log opened at 2024-05-01 02:02:47.201950
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[8] Log opened at 2024-05-01 02:02:47.203088
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 02:02:47.244081
+
+[7] Log opened at 2024-05-01 02:02:47.245317
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 02:02:47.357036
+
+[172] Log closed at 2024-05-01 02:02:47.403204
+
+[7] Log closed at 2024-05-01 02:02:47.440070
+
+[8] Log opened at 2024-05-01 02:03:03.909572
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:03:04.037582
+
+[172] Log opened at 2024-05-01 02:03:04.038662
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 02:03:04.192495
+
+[7] Log opened at 2024-05-01 02:05:23.280580
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log opened at 2024-05-01 02:05:23.333668
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 02:05:23.403490
+
+[172] Log opened at 2024-05-01 02:05:23.430713
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[8] Log closed at 2024-05-01 02:05:23.451283
+
+[7] Log opened at 2024-05-01 02:05:23.456565
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log closed at 2024-05-01 02:05:23.575962
+
+[7] Log closed at 2024-05-01 02:05:23.614716
+
+[8] Log opened at 2024-05-01 02:05:26.356733
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:05:26.441262
+
+[172] Log opened at 2024-05-01 02:05:26.441944
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[172] Log closed at 2024-05-01 02:05:26.562139
+
+[7] Log opened at 2024-05-01 02:05:47.519203
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:05:47.603336
+
+[8] Log opened at 2024-05-01 02:05:47.606677
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:05:47.755507
+
+[172] Log opened at 2024-05-01 02:06:05.484229
+[172] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.172'
+[7] Log opened at 2024-05-01 02:06:05.700128
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[172] Log closed at 2024-05-01 02:06:05.701078
+
+[7] Log closed at 2024-05-01 02:06:05.927813
+
+[6] Log opened at 2024-05-01 02:16:52.023781
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log opened at 2024-05-01 02:16:52.189678
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:16:52.190371
+
+[6] Log opened at 2024-05-01 02:16:52.248333
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:16:52.374273
+
+[6] Log opened at 2024-05-01 02:16:52.375371
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:16:52.465893
+
+[7] Log opened at 2024-05-01 02:16:52.467301
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:16:52.486388
+
+[6] Log opened at 2024-05-01 02:16:52.487993
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:16:52.561405
+
+[7] Log opened at 2024-05-01 02:16:52.562318
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:16:52.613180
+
+[8] Log opened at 2024-05-01 02:16:52.613807
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 02:16:52.680544
+
+[8] Log closed at 2024-05-01 02:16:52.737744
+
+[6] Log opened at 2024-05-01 02:16:57.929213
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:16:58.014110
+
+[7] Log opened at 2024-05-01 02:16:58.015072
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:16:58.133621
+
+[8] Log opened at 2024-05-01 02:17:03.845774
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:17:03.925175
+
+[6] Log opened at 2024-05-01 02:17:03.926122
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:17:04.016968
+
+[7] Log opened at 2024-05-01 02:17:24.179326
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:17:24.251035
+
+[8] Log opened at 2024-05-01 02:17:24.251906
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:17:24.344835
+
+[22] Log opened at 2024-05-01 02:17:32.827701
+[22] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.22'
+[42] Log opened at 2024-05-01 02:17:35.148154
+[42] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.42'
+[42] Log closed at 2024-05-01 02:17:35.280805
+
+[22] Log closed at 2024-05-01 02:17:35.299299
+
+[51] Log opened at 2024-05-01 02:17:35.359183
+[51] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.51'
+[51] Log closed at 2024-05-01 02:17:35.465560
+
+[60] Log opened at 2024-05-01 02:17:35.528004
+[60] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.60'
+[60] Log closed at 2024-05-01 02:17:35.641368
+
+[69] Log opened at 2024-05-01 02:17:35.710976
+[69] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.69'
+[69] Log closed at 2024-05-01 02:17:35.818249
+
+[78] Log opened at 2024-05-01 02:17:35.881914
+[78] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.78'
+[98] Log opened at 2024-05-01 02:17:37.445140
+[98] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.98'
+[98] Log closed at 2024-05-01 02:17:37.574733
+
+[78] Log closed at 2024-05-01 02:17:37.594623
+
+[111] Log opened at 2024-05-01 02:17:37.654044
+[111] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.111'
+[111] Log closed at 2024-05-01 02:17:37.847258
+
+[120] Log opened at 2024-05-01 02:17:37.918901
+[120] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.120'
+[120] Log closed at 2024-05-01 02:17:38.044188
+
+[129] Log opened at 2024-05-01 02:17:38.106716
+[129] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.129'
+[129] Log closed at 2024-05-01 02:17:38.266905
+
+[138] Log opened at 2024-05-01 02:17:38.329535
+[138] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.138'
+[138] Log closed at 2024-05-01 02:17:38.485492
+
+[148] Log opened at 2024-05-01 02:17:38.553781
+[148] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.148'
+[148] Log closed at 2024-05-01 02:17:38.698524
+
+[170] Log opened at 2024-05-01 02:17:38.914682
+[170] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.170'
+[170] Log closed at 2024-05-01 02:17:39.257836
+
+[6] Log opened at 2024-05-01 02:18:02.360167
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:18:02.432256
+
+[7] Log opened at 2024-05-01 02:18:02.433387
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:18:02.527487
+
+[186] Log opened at 2024-05-01 02:18:26.993069
+[186] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.186'
+[186] Log closed at 2024-05-01 02:18:27.097795
+
+[195] Log opened at 2024-05-01 02:18:27.156934
+[195] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.195'
+[215] Log opened at 2024-05-01 02:18:28.568608
+[215] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.215'
+[215] Log closed at 2024-05-01 02:18:28.698940
+
+[195] Log closed at 2024-05-01 02:18:28.715591
+
+[224] Log opened at 2024-05-01 02:18:28.774301
+[224] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.224'
+[224] Log closed at 2024-05-01 02:18:28.876862
+
+[233] Log opened at 2024-05-01 02:18:28.939125
+[233] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.233'
+[233] Log closed at 2024-05-01 02:18:29.039957
+
+[241] Log opened at 2024-05-01 02:18:29.102318
+[241] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.241'
+[241] Log closed at 2024-05-01 02:18:29.204252
+
+[251] Log opened at 2024-05-01 02:18:29.263700
+[251] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.251'
+[271] Log opened at 2024-05-01 02:18:30.822429
+[271] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.271'
+[271] Log closed at 2024-05-01 02:18:30.993528
+
+[251] Log closed at 2024-05-01 02:18:31.022247
+
+[282] Log opened at 2024-05-01 02:18:31.099196
+[282] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.282'
+[282] Log closed at 2024-05-01 02:18:31.225513
+
+[292] Log opened at 2024-05-01 02:18:31.291497
+[292] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.292'
+[292] Log closed at 2024-05-01 02:18:31.417904
+
+[301] Log opened at 2024-05-01 02:18:31.486464
+[301] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.301'
+[301] Log closed at 2024-05-01 02:18:31.638547
+
+[310] Log opened at 2024-05-01 02:18:31.704895
+[310] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.310'
+[310] Log closed at 2024-05-01 02:18:31.840571
+
+[320] Log opened at 2024-05-01 02:18:31.905545
+[320] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.320'
+[320] Log closed at 2024-05-01 02:18:32.032834
+
+[343] Log opened at 2024-05-01 02:18:32.193010
+[343] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.343'
+[343] Log closed at 2024-05-01 02:18:32.524139
+
+[359] Log opened at 2024-05-01 02:19:34.169451
+[359] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.359'
+[379] Log opened at 2024-05-01 02:19:35.637994
+[379] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.379'
+[379] Log closed at 2024-05-01 02:19:35.761473
+
+[359] Log closed at 2024-05-01 02:19:35.778689
+
+[388] Log opened at 2024-05-01 02:19:35.840743
+[388] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.388'
+[388] Log closed at 2024-05-01 02:19:35.939516
+
+[397] Log opened at 2024-05-01 02:19:36.007835
+[397] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.397'
+[397] Log closed at 2024-05-01 02:19:36.106345
+
+[406] Log opened at 2024-05-01 02:19:36.170507
+[406] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.406'
+[406] Log closed at 2024-05-01 02:19:36.266976
+
+[415] Log opened at 2024-05-01 02:19:36.334854
+[415] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.415'
+[435] Log opened at 2024-05-01 02:19:37.742781
+[435] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.435'
+[435] Log closed at 2024-05-01 02:19:37.866417
+
+[415] Log closed at 2024-05-01 02:19:37.887556
+
+[448] Log opened at 2024-05-01 02:19:37.946870
+[448] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.448'
+[448] Log closed at 2024-05-01 02:19:38.049811
+
+[457] Log opened at 2024-05-01 02:19:38.108444
+[457] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.457'
+[457] Log closed at 2024-05-01 02:19:38.207635
+
+[466] Log opened at 2024-05-01 02:19:38.268280
+[466] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.466'
+[466] Log closed at 2024-05-01 02:19:38.402579
+
+[474] Log opened at 2024-05-01 02:19:38.468836
+[474] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.474'
+[474] Log closed at 2024-05-01 02:19:38.597116
+
+[483] Log opened at 2024-05-01 02:19:38.662069
+[483] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.483'
+[483] Log closed at 2024-05-01 02:19:38.789312
+
+[505] Log opened at 2024-05-01 02:19:38.933618
+[505] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.505'
+[505] Log closed at 2024-05-01 02:19:39.252040
+
+[521] Log opened at 2024-05-01 02:20:36.292327
+[521] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.521'
+[541] Log opened at 2024-05-01 02:20:37.692665
+[541] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.541'
+[541] Log closed at 2024-05-01 02:20:37.822471
+
+[521] Log closed at 2024-05-01 02:20:37.838616
+
+[550] Log opened at 2024-05-01 02:20:37.901363
+[550] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.550'
+[550] Log closed at 2024-05-01 02:20:37.998301
+
+[559] Log opened at 2024-05-01 02:20:38.056371
+[559] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.559'
+[559] Log closed at 2024-05-01 02:20:38.160620
+
+[568] Log opened at 2024-05-01 02:20:38.222526
+[568] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.568'
+[568] Log closed at 2024-05-01 02:20:38.321952
+
+[577] Log opened at 2024-05-01 02:20:38.383694
+[577] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.577'
+[597] Log opened at 2024-05-01 02:20:39.797890
+[597] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.597'
+[597] Log closed at 2024-05-01 02:20:39.923897
+
+[577] Log closed at 2024-05-01 02:20:39.944554
+
+[609] Log opened at 2024-05-01 02:20:40.004174
+[609] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.609'
+[609] Log closed at 2024-05-01 02:20:40.108569
+
+[619] Log opened at 2024-05-01 02:20:40.169393
+[619] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.619'
+[619] Log closed at 2024-05-01 02:20:40.267253
+
+[628] Log opened at 2024-05-01 02:20:40.325123
+[628] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.628'
+[628] Log closed at 2024-05-01 02:20:40.459752
+
+[637] Log opened at 2024-05-01 02:20:40.521923
+[637] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.637'
+[637] Log closed at 2024-05-01 02:20:40.651307
+
+[647] Log opened at 2024-05-01 02:20:40.717450
+[647] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.647'
+[647] Log closed at 2024-05-01 02:20:40.841902
+
+[663] Log opened at 2024-05-01 02:20:40.947655
+[663] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.663'
+[663] Log closed at 2024-05-01 02:20:41.307390
+
+[21] Log opened at 2024-05-01 02:21:47.881736
+[21] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.21'
+[41] Log opened at 2024-05-01 02:21:49.386597
+[41] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.41'
+[41] Log closed at 2024-05-01 02:21:49.521777
+
+[21] Log closed at 2024-05-01 02:21:49.538740
+
+[51] Log opened at 2024-05-01 02:21:49.603073
+[51] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.51'
+[51] Log closed at 2024-05-01 02:21:49.709594
+
+[60] Log opened at 2024-05-01 02:21:49.768638
+[60] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.60'
+[60] Log closed at 2024-05-01 02:21:49.871204
+
+[69] Log opened at 2024-05-01 02:21:49.931135
+[69] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.69'
+[69] Log closed at 2024-05-01 02:21:50.036093
+
+[78] Log opened at 2024-05-01 02:21:50.101800
+[78] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.78'
+[98] Log opened at 2024-05-01 02:21:51.507054
+[98] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.98'
+[98] Log closed at 2024-05-01 02:21:51.635081
+
+[78] Log closed at 2024-05-01 02:21:51.656657
+
+[110] Log opened at 2024-05-01 02:21:52.129445
+[110] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.110'
+[110] Log closed at 2024-05-01 02:21:52.396909
+
+[120] Log opened at 2024-05-01 02:21:52.462708
+[120] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.120'
+[120] Log closed at 2024-05-01 02:21:52.629854
+
+[129] Log opened at 2024-05-01 02:21:52.703847
+[129] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.129'
+[129] Log closed at 2024-05-01 02:21:52.845754
+
+[138] Log opened at 2024-05-01 02:21:52.913090
+[138] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.138'
+[138] Log closed at 2024-05-01 02:21:53.049283
+
+[149] Log opened at 2024-05-01 02:21:53.115684
+[149] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.149'
+[149] Log closed at 2024-05-01 02:21:53.242193
+
+[171] Log opened at 2024-05-01 02:21:53.403999
+[171] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.171'
+[171] Log closed at 2024-05-01 02:21:53.728093
+
+[23] Log opened at 2024-05-01 02:23:14.779825
+[23] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.23'
+[43] Log opened at 2024-05-01 02:23:16.290390
+[43] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.43'
+[43] Log closed at 2024-05-01 02:23:16.456567
+
+[23] Log closed at 2024-05-01 02:23:16.471870
+
+[52] Log opened at 2024-05-01 02:23:16.533704
+[52] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.52'
+[52] Log closed at 2024-05-01 02:23:16.641198
+
+[61] Log opened at 2024-05-01 02:23:16.700980
+[61] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.61'
+[61] Log closed at 2024-05-01 02:23:16.803275
+
+[70] Log opened at 2024-05-01 02:23:16.864697
+[70] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.70'
+[70] Log closed at 2024-05-01 02:23:16.973639
+
+[79] Log opened at 2024-05-01 02:23:17.035485
+[79] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.79'
+[99] Log opened at 2024-05-01 02:23:18.536843
+[99] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.99'
+[99] Log closed at 2024-05-01 02:23:18.666861
+
+[79] Log closed at 2024-05-01 02:23:18.688307
+
+[111] Log opened at 2024-05-01 02:23:18.750154
+[111] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.111'
+[111] Log closed at 2024-05-01 02:23:18.861853
+
+[119] Log opened at 2024-05-01 02:23:18.932649
+[119] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.119'
+[119] Log closed at 2024-05-01 02:23:19.032822
+
+[128] Log opened at 2024-05-01 02:23:19.095257
+[128] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.128'
+[128] Log closed at 2024-05-01 02:23:19.750925
+
+[138] Log opened at 2024-05-01 02:23:19.815683
+[138] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.138'
+[138] Log closed at 2024-05-01 02:23:19.936905
+
+[148] Log opened at 2024-05-01 02:23:19.999044
+[148] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.148'
+[148] Log closed at 2024-05-01 02:23:20.115571
+
+[171] Log opened at 2024-05-01 02:23:20.264534
+[171] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.171'
+[171] Log closed at 2024-05-01 02:23:25.541241
+
+[7] Log opened at 2024-05-01 02:23:28.899242
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:23:28.973341
+
+[8] Log opened at 2024-05-01 02:23:28.974261
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:23:29.287270
+
+[7] Log opened at 2024-05-01 02:23:29.297905
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log opened at 2024-05-01 02:23:29.299268
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 02:23:29.400828
+
+[7] Log opened at 2024-05-01 02:23:29.401538
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 02:23:29.409556
+
+[8] Log opened at 2024-05-01 02:23:29.410355
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[174] Log opened at 2024-05-01 02:23:29.485271
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[7] Log closed at 2024-05-01 02:23:29.487286
+
+[7] Log opened at 2024-05-01 02:23:29.488165
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log closed at 2024-05-01 02:23:29.548242
+
+[174] Log closed at 2024-05-01 02:23:29.632988
+
+[7] Log closed at 2024-05-01 02:23:29.647429
+
+[8] Log opened at 2024-05-01 02:23:33.613328
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:23:33.699534
+
+[174] Log opened at 2024-05-01 02:23:33.700367
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[174] Log closed at 2024-05-01 02:23:33.777331
+
+[7] Log opened at 2024-05-01 02:23:38.175190
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:23:38.247774
+
+[8] Log opened at 2024-05-01 02:23:38.248359
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:23:38.540662
+
+[174] Log opened at 2024-05-01 02:23:38.546300
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[7] Log opened at 2024-05-01 02:23:38.548238
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log opened at 2024-05-01 02:23:38.553092
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[174] Log closed at 2024-05-01 02:23:38.642018
+
+[174] Log opened at 2024-05-01 02:23:38.643398
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[7] Log closed at 2024-05-01 02:23:38.643909
+
+[8] Log closed at 2024-05-01 02:23:38.645120
+
+[7] Log opened at 2024-05-01 02:23:38.645383
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[8] Log opened at 2024-05-01 02:23:38.646077
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[174] Log closed at 2024-05-01 02:23:38.767746
+
+[7] Log closed at 2024-05-01 02:23:38.779363
+
+[8] Log closed at 2024-05-01 02:23:38.781715
+
+[174] Log opened at 2024-05-01 02:23:41.580874
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[174] Log closed at 2024-05-01 02:23:41.662321
+
+[7] Log opened at 2024-05-01 02:23:41.662964
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:23:41.796813
+
+[8] Log opened at 2024-05-01 02:23:56.473505
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:23:56.590247
+
+[174] Log opened at 2024-05-01 02:23:56.590799
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[174] Log closed at 2024-05-01 02:23:56.804812
+
+[7] Log opened at 2024-05-01 02:23:57.871344
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:23:57.979123
+
+[8] Log opened at 2024-05-01 02:23:57.979518
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:23:58.118484
+
+[174] Log opened at 2024-05-01 02:24:01.899221
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[174] Log closed at 2024-05-01 02:24:02.011483
+
+[7] Log opened at 2024-05-01 02:24:02.012540
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:24:02.156039
+
+[8] Log opened at 2024-05-01 02:24:11.084428
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:24:11.183319
+
+[174] Log opened at 2024-05-01 02:24:11.184192
+[174] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.174'
+[174] Log closed at 2024-05-01 02:24:11.286777
+
+[6] Log opened at 2024-05-01 02:33:33.014865
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log opened at 2024-05-01 02:33:33.186821
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:33:33.193495
+
+[7] Log closed at 2024-05-01 02:33:33.393593
+
+[6] Log opened at 2024-05-01 02:33:33.438066
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log opened at 2024-05-01 02:33:33.438889
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:33:33.530530
+
+[6] Log opened at 2024-05-01 02:33:33.531625
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:33:33.541109
+
+[7] Log opened at 2024-05-01 02:33:33.542003
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:33:33.644665
+
+[7] Log closed at 2024-05-01 02:33:33.679779
+
+[6] Log opened at 2024-05-01 02:33:42.303819
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:33:42.381375
+
+[7] Log opened at 2024-05-01 02:33:42.386781
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:33:42.447855
+
+[6] Log opened at 2024-05-01 02:33:49.291670
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:33:49.377858
+
+[7] Log opened at 2024-05-01 02:33:49.378278
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:33:49.736953
+
+[6] Log opened at 2024-05-01 02:33:49.742816
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log opened at 2024-05-01 02:33:49.742846
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:33:49.856034
+
+[7] Log opened at 2024-05-01 02:33:49.857128
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:33:49.860184
+
+[6] Log opened at 2024-05-01 02:33:49.860741
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:33:49.959677
+
+[7] Log opened at 2024-05-01 02:33:49.960319
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:33:50.035736
+
+[6] Log opened at 2024-05-01 02:33:50.036704
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:33:50.109765
+
+[6] Log closed at 2024-05-01 02:33:50.197127
+
+[7] Log opened at 2024-05-01 02:33:51.456601
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:33:51.526892
+
+[6] Log opened at 2024-05-01 02:33:51.527934
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:33:51.620439
+
+[7] Log opened at 2024-05-01 02:34:00.675300
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:34:00.750197
+
+[6] Log opened at 2024-05-01 02:34:00.751257
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:34:01.033933
+
+[7] Log opened at 2024-05-01 02:34:01.041839
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log opened at 2024-05-01 02:34:01.043450
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:34:01.170456
+
+[7] Log opened at 2024-05-01 02:34:01.171896
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:34:01.174180
+
+[6] Log opened at 2024-05-01 02:34:01.175112
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:34:01.282534
+
+[7] Log opened at 2024-05-01 02:34:01.283281
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:34:01.326327
+
+[6] Log opened at 2024-05-01 02:34:01.327094
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:34:01.447073
+
+[6] Log closed at 2024-05-01 02:34:01.482237
+
+[7] Log opened at 2024-05-01 02:34:03.080909
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:34:03.168300
+
+[6] Log opened at 2024-05-01 02:34:03.169495
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:34:03.261438
+
+[7] Log opened at 2024-05-01 02:34:43.160979
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:34:43.256015
+
+[6] Log opened at 2024-05-01 02:34:43.256849
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:34:43.357013
+
+[7] Log opened at 2024-05-01 02:34:46.461942
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:34:46.535147
+
+[6] Log opened at 2024-05-01 02:34:46.537136
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:34:46.842955
+
+[7] Log opened at 2024-05-01 02:34:46.850853
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log opened at 2024-05-01 02:34:46.851489
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:34:46.965249
+
+[6] Log closed at 2024-05-01 02:34:46.965826
+
+[7] Log opened at 2024-05-01 02:34:46.965769
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log opened at 2024-05-01 02:34:46.966882
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:34:47.056440
+
+[7] Log opened at 2024-05-01 02:34:47.057656
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:34:47.091581
+
+[6] Log opened at 2024-05-01 02:34:47.092920
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[7] Log closed at 2024-05-01 02:34:47.193113
+
+[6] Log closed at 2024-05-01 02:34:47.227663
+
+[7] Log opened at 2024-05-01 02:34:48.493224
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:34:48.568563
+
+[6] Log opened at 2024-05-01 02:34:48.569683
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:34:48.638780
+
+[7] Log opened at 2024-05-01 02:34:52.127864
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:34:52.192422
+
+[6] Log opened at 2024-05-01 02:34:52.193093
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:34:52.474630
+
+[7] Log opened at 2024-05-01 02:34:52.480000
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log opened at 2024-05-01 02:34:52.480541
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[8] Log opened at 2024-05-01 02:34:52.517552
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 02:34:52.568765
+
+[6] Log closed at 2024-05-01 02:34:52.569555
+
+[7] Log opened at 2024-05-01 02:34:52.571341
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log opened at 2024-05-01 02:34:52.571781
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[8] Log closed at 2024-05-01 02:34:52.618586
+
+[8] Log opened at 2024-05-01 02:34:52.620022
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log closed at 2024-05-01 02:34:52.692123
+
+[6] Log closed at 2024-05-01 02:34:52.702447
+
+[8] Log closed at 2024-05-01 02:34:52.756490
+
+[7] Log opened at 2024-05-01 02:34:56.087229
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:34:56.168612
+
+[6] Log opened at 2024-05-01 02:34:56.169378
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[6] Log closed at 2024-05-01 02:34:56.238568
+
+[8] Log opened at 2024-05-01 02:35:00.934382
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:35:01.067908
+
+[7] Log opened at 2024-05-01 02:35:01.068464
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:35:01.384887
+
+[6] Log opened at 2024-05-01 02:35:01.390803
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[8] Log opened at 2024-05-01 02:35:01.393578
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 02:35:01.393946
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:35:01.482557
+
+[8] Log closed at 2024-05-01 02:35:01.482842
+
+[7] Log closed at 2024-05-01 02:35:01.483319
+
+[6] Log opened at 2024-05-01 02:35:01.484669
+[6] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.6'
+[8] Log opened at 2024-05-01 02:35:01.485247
+[7] Log opened at 2024-05-01 02:35:01.485249
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[6] Log closed at 2024-05-01 02:35:01.607591
+
+[8] Log closed at 2024-05-01 02:35:01.616088
+
+[7] Log closed at 2024-05-01 02:35:01.616951
+
+[9] Log opened at 2024-05-01 02:35:02.824525
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:35:02.908607
+
+[8] Log opened at 2024-05-01 02:35:02.909331
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:35:02.973538
+
+[7] Log opened at 2024-05-01 02:38:15.415492
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:38:15.511515
+
+[9] Log opened at 2024-05-01 02:38:15.512386
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:38:15.634274
+
+[8] Log opened at 2024-05-01 02:38:28.941677
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:38:29.028787
+
+[7] Log opened at 2024-05-01 02:38:29.029844
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:38:29.132152
+
+[9] Log opened at 2024-05-01 02:38:31.918468
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:38:32.022303
+
+[8] Log opened at 2024-05-01 02:38:32.023677
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:38:32.116684
+
+[7] Log opened at 2024-05-01 02:38:39.752886
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:38:39.881684
+
+[9] Log opened at 2024-05-01 02:38:39.884264
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:38:40.024665
+
+[8] Log opened at 2024-05-01 02:38:55.415495
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:38:55.524687
+
+[7] Log opened at 2024-05-01 02:38:55.525601
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:38:55.669427
+
+[9] Log opened at 2024-05-01 02:38:57.365529
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[8] Log opened at 2024-05-01 02:38:57.474317
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[9] Log closed at 2024-05-01 02:38:57.474534
+
+[8] Log closed at 2024-05-01 02:38:57.603717
+
+[7] Log opened at 2024-05-01 02:39:04.986409
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:39:05.088623
+
+[9] Log opened at 2024-05-01 02:39:05.090133
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:05.221283
+
+[8] Log opened at 2024-05-01 02:39:06.494295
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:39:06.594832
+
+[7] Log opened at 2024-05-01 02:39:06.595754
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:39:06.737897
+
+[9] Log opened at 2024-05-01 02:39:10.170445
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:10.314517
+
+[8] Log opened at 2024-05-01 02:39:10.314812
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:39:10.502285
+
+[7] Log opened at 2024-05-01 02:39:24.958457
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:39:25.045012
+
+[9] Log opened at 2024-05-01 02:39:25.045265
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:25.158145
+
+[8] Log opened at 2024-05-01 02:39:34.076074
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:39:34.169274
+
+[7] Log opened at 2024-05-01 02:39:34.170271
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:39:34.289932
+
+[9] Log opened at 2024-05-01 02:39:35.658760
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:35.740854
+
+[8] Log opened at 2024-05-01 02:39:35.741481
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[8] Log closed at 2024-05-01 02:39:35.854116
+
+[7] Log opened at 2024-05-01 02:39:38.379341
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[7] Log closed at 2024-05-01 02:39:38.447263
+
+[9] Log opened at 2024-05-01 02:39:38.447737
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:38.741840
+
+[8] Log opened at 2024-05-01 02:39:38.750791
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 02:39:38.757105
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[9] Log opened at 2024-05-01 02:39:38.757859
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[8] Log closed at 2024-05-01 02:39:38.846875
+
+[7] Log closed at 2024-05-01 02:39:38.848896
+
+[9] Log closed at 2024-05-01 02:39:38.849643
+
+[8] Log opened at 2024-05-01 02:39:38.850017
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[7] Log opened at 2024-05-01 02:39:38.850741
+[7] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.7'
+[10] Log opened at 2024-05-01 02:39:38.852297
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[7] Log closed at 2024-05-01 02:39:38.981421
+
+[8] Log closed at 2024-05-01 02:39:38.982636
+
+[10] Log closed at 2024-05-01 02:39:38.990586
+
+[9] Log opened at 2024-05-01 02:39:44.467686
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:44.554086
+
+[8] Log opened at 2024-05-01 02:39:44.554459
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[10] Log opened at 2024-05-01 02:39:44.580229
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:39:44.580657
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:44.694503
+
+[9] Log opened at 2024-05-01 02:39:44.695168
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:39:44.703059
+
+[10] Log opened at 2024-05-01 02:39:44.704358
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[8] Log closed at 2024-05-01 02:39:44.719598
+
+[8] Log opened at 2024-05-01 02:39:44.723019
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[9] Log closed at 2024-05-01 02:39:44.805687
+
+[8] Log closed at 2024-05-01 02:39:44.871969
+
+[10] Log closed at 2024-05-01 02:39:44.879769
+
+[11] Log opened at 2024-05-01 02:39:45.208001
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:39:45.258794
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:39:45.259365
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[8] Log opened at 2024-05-01 02:39:45.259363
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[11] Log closed at 2024-05-01 02:39:45.331829
+
+[11] Log opened at 2024-05-01 02:39:45.333083
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:39:45.364164
+
+[10] Log opened at 2024-05-01 02:39:45.365053
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[8] Log closed at 2024-05-01 02:39:45.379573
+
+[8] Log opened at 2024-05-01 02:39:45.380607
+[8] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.8'
+[9] Log closed at 2024-05-01 02:39:45.401821
+
+[9] Log opened at 2024-05-01 02:39:45.402946
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:39:45.509554
+
+[8] Log closed at 2024-05-01 02:39:45.518406
+
+[11] Log closed at 2024-05-01 02:39:45.527338
+
+[9] Log closed at 2024-05-01 02:39:45.561395
+
+[10] Log opened at 2024-05-01 02:39:48.019645
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:39:48.071272
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:39:48.071388
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:39:48.107820
+
+[10] Log opened at 2024-05-01 02:39:48.109068
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:39:48.178613
+
+[11] Log opened at 2024-05-01 02:39:48.180233
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:39:48.182168
+
+[9] Log opened at 2024-05-01 02:39:48.182821
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:39:48.210672
+
+[10] Log opened at 2024-05-01 02:39:48.211197
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:39:48.307245
+
+[11] Log opened at 2024-05-01 02:39:48.309269
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:39:48.309624
+
+[10] Log closed at 2024-05-01 02:39:48.344893
+
+[11] Log closed at 2024-05-01 02:39:48.423443
+
+[9] Log opened at 2024-05-01 02:39:51.140681
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:51.234507
+
+[10] Log opened at 2024-05-01 02:39:51.235128
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:39:51.350965
+
+[11] Log opened at 2024-05-01 02:39:56.864400
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:39:56.948466
+
+[9] Log opened at 2024-05-01 02:39:56.949004
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:57.062116
+
+[10] Log opened at 2024-05-01 02:39:57.081064
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:39:57.081411
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:39:57.191440
+
+[11] Log closed at 2024-05-01 02:39:57.197572
+
+[9] Log opened at 2024-05-01 02:39:57.548779
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:57.630539
+
+[10] Log opened at 2024-05-01 02:39:57.630426
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:39:57.737555
+
+[11] Log opened at 2024-05-01 02:39:57.753265
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:39:57.753658
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:57.843299
+
+[11] Log closed at 2024-05-01 02:39:57.844700
+
+[10] Log opened at 2024-05-01 02:39:57.844548
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:39:57.845067
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:39:57.960636
+
+[10] Log closed at 2024-05-01 02:39:57.976907
+
+[11] Log opened at 2024-05-01 02:41:22.823916
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:41:22.929798
+
+[9] Log opened at 2024-05-01 02:41:22.930192
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:41:22.997277
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:41:23.056247
+
+[11] Log opened at 2024-05-01 02:41:23.089035
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:41:23.112565
+
+[9] Log opened at 2024-05-01 02:41:23.113160
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:41:23.203922
+
+[9] Log closed at 2024-05-01 02:41:23.250669
+
+[10] Log opened at 2024-05-01 02:41:23.251603
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:41:23.264171
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:41:23.347269
+
+[10] Log closed at 2024-05-01 02:41:23.364323
+
+[9] Log opened at 2024-05-01 02:41:23.365051
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:23.455209
+
+[11] Log opened at 2024-05-01 02:41:26.629088
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:41:26.714260
+
+[10] Log opened at 2024-05-01 02:41:26.714769
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:41:26.747245
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:26.838130
+
+[10] Log closed at 2024-05-01 02:41:26.838172
+
+[11] Log opened at 2024-05-01 02:41:26.839954
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:41:26.853419
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:26.939358
+
+[11] Log closed at 2024-05-01 02:41:26.960459
+
+[10] Log opened at 2024-05-01 02:41:26.961488
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:41:26.968445
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:27.053018
+
+[10] Log closed at 2024-05-01 02:41:27.078400
+
+[11] Log opened at 2024-05-01 02:41:27.078824
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:41:27.177721
+
+[9] Log opened at 2024-05-01 02:41:36.918879
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:37.003475
+
+[9] Log opened at 2024-05-01 02:41:37.003990
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:37.119880
+
+[11] Log opened at 2024-05-01 02:41:43.526567
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:41:43.657160
+
+[10] Log opened at 2024-05-01 02:41:43.657886
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:41:43.793978
+
+[9] Log opened at 2024-05-01 02:41:43.820389
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log opened at 2024-05-01 02:41:43.820645
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:41:43.962647
+
+[9] Log closed at 2024-05-01 02:41:43.962661
+
+[10] Log opened at 2024-05-01 02:41:43.963960
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:41:43.964679
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:41:44.116597
+
+[11] Log closed at 2024-05-01 02:41:44.137464
+
+[9] Log opened at 2024-05-01 02:41:49.105680
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:49.177577
+
+[10] Log opened at 2024-05-01 02:41:49.178596
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:41:49.282091
+
+[11] Log opened at 2024-05-01 02:41:49.284367
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:41:49.376070
+
+[9] Log opened at 2024-05-01 02:41:50.373546
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:41:50.447305
+
+[10] Log opened at 2024-05-01 02:41:50.448295
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:41:50.562707
+
+[11] Log opened at 2024-05-01 02:42:10.378009
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:10.459207
+
+[9] Log opened at 2024-05-01 02:42:10.459741
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:42:10.516624
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:42:10.600636
+
+[10] Log closed at 2024-05-01 02:42:10.626132
+
+[11] Log opened at 2024-05-01 02:42:10.627127
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:42:10.629565
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:42:10.714178
+
+[11] Log closed at 2024-05-01 02:42:10.746735
+
+[10] Log opened at 2024-05-01 02:42:10.747311
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:42:10.759663
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:42:10.847714
+
+[10] Log closed at 2024-05-01 02:42:10.867706
+
+[11] Log opened at 2024-05-01 02:42:10.868411
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:10.965198
+
+[9] Log opened at 2024-05-01 02:42:17.786367
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:42:17.858265
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:42:17.877559
+
+[11] Log opened at 2024-05-01 02:42:17.878111
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:42:17.948142
+
+[9] Log opened at 2024-05-01 02:42:17.949042
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:42:17.997064
+
+[10] Log opened at 2024-05-01 02:42:18.011652
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:42:18.077959
+
+[11] Log opened at 2024-05-01 02:42:18.084129
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:42:18.117856
+
+[9] Log opened at 2024-05-01 02:42:18.118357
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:42:18.179443
+
+[9] Log closed at 2024-05-01 02:42:18.231690
+
+[10] Log opened at 2024-05-01 02:42:18.232182
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:42:18.336061
+
+[11] Log opened at 2024-05-01 02:42:20.115844
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:20.207858
+
+[9] Log opened at 2024-05-01 02:42:20.208476
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:42:20.217288
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:42:20.306630
+
+[9] Log closed at 2024-05-01 02:42:20.325773
+
+[11] Log opened at 2024-05-01 02:42:20.326216
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:42:20.338594
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:42:20.420877
+
+[11] Log closed at 2024-05-01 02:42:20.442680
+
+[9] Log opened at 2024-05-01 02:42:20.443203
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:42:20.450021
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:42:20.530829
+
+[9] Log closed at 2024-05-01 02:42:20.561403
+
+[11] Log opened at 2024-05-01 02:42:20.562002
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:20.663704
+
+[10] Log opened at 2024-05-01 02:42:23.759247
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:42:23.844739
+
+[9] Log opened at 2024-05-01 02:42:23.845723
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:42:23.955897
+
+[11] Log opened at 2024-05-01 02:42:24.181029
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:24.311288
+
+[10] Log opened at 2024-05-01 02:42:24.311439
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:42:24.374736
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:42:24.469086
+
+[11] Log opened at 2024-05-01 02:42:24.481096
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:42:24.485248
+
+[10] Log opened at 2024-05-01 02:42:24.487962
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:42:24.582568
+
+[10] Log closed at 2024-05-01 02:42:24.610172
+
+[9] Log opened at 2024-05-01 02:42:24.611001
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:42:24.714275
+
+[11] Log opened at 2024-05-01 02:42:44.976497
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:45.075611
+
+[10] Log opened at 2024-05-01 02:42:45.076309
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:42:45.203435
+
+[9] Log opened at 2024-05-01 02:42:45.622166
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log opened at 2024-05-01 02:42:45.624121
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:45.748720
+
+[10] Log opened at 2024-05-01 02:42:45.749816
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:42:45.751645
+
+[9] Log opened at 2024-05-01 02:42:45.753081
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:42:45.887027
+
+[10] Log closed at 2024-05-01 02:42:45.899314
+
+[11] Log opened at 2024-05-01 02:42:48.844462
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:48.943929
+
+[9] Log opened at 2024-05-01 02:42:48.944901
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:42:49.049407
+
+[10] Log opened at 2024-05-01 02:42:51.390170
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:42:51.480763
+
+[11] Log opened at 2024-05-01 02:42:51.481773
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:51.584472
+
+[9] Log opened at 2024-05-01 02:42:51.791652
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:42:51.917468
+
+[10] Log opened at 2024-05-01 02:42:51.918385
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:42:51.996168
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:42:52.060615
+
+[9] Log opened at 2024-05-01 02:42:52.069925
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:42:52.103766
+
+[10] Log opened at 2024-05-01 02:42:52.104382
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:42:52.168536
+
+[10] Log closed at 2024-05-01 02:42:52.231236
+
+[11] Log opened at 2024-05-01 02:42:52.232058
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:42:52.337350
+
+[9] Log opened at 2024-05-01 02:43:09.357362
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:43:09.433695
+
+[10] Log opened at 2024-05-01 02:43:09.434623
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:43:09.542425
+
+[11] Log opened at 2024-05-01 02:43:09.809439
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:09.902105
+
+[9] Log opened at 2024-05-01 02:43:09.902558
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:43:09.998706
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:43:10.053803
+
+[11] Log opened at 2024-05-01 02:43:10.082098
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:43:10.125315
+
+[9] Log opened at 2024-05-01 02:43:10.125911
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:43:10.189589
+
+[9] Log closed at 2024-05-01 02:43:10.244200
+
+[10] Log opened at 2024-05-01 02:43:10.245037
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:43:10.362158
+
+[11] Log opened at 2024-05-01 02:43:13.324412
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:13.455031
+
+[9] Log opened at 2024-05-01 02:43:13.455353
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:43:13.574179
+
+[10] Log opened at 2024-05-01 02:43:15.533388
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:43:15.632713
+
+[11] Log opened at 2024-05-01 02:43:15.633102
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:15.739916
+
+[9] Log opened at 2024-05-01 02:43:19.856835
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:43:19.963375
+
+[10] Log opened at 2024-05-01 02:43:19.964174
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:43:20.071266
+
+[11] Log opened at 2024-05-01 02:43:20.992393
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:21.077970
+
+[9] Log opened at 2024-05-01 02:43:21.079364
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:43:21.188336
+
+[10] Log opened at 2024-05-01 02:43:21.496904
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:43:21.499115
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:21.592358
+
+[9] Log opened at 2024-05-01 02:43:21.593421
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log opened at 2024-05-01 02:43:21.594867
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:43:21.595257
+
+[11] Log closed at 2024-05-01 02:43:21.746727
+
+[9] Log closed at 2024-05-01 02:43:21.761747
+
+[10] Log opened at 2024-05-01 02:43:29.069341
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:43:29.154924
+
+[11] Log opened at 2024-05-01 02:43:29.155642
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:29.275302
+
+[9] Log opened at 2024-05-01 02:43:29.538015
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:43:29.632946
+
+[10] Log opened at 2024-05-01 02:43:29.634534
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:43:29.705871
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:43:29.808453
+
+[9] Log opened at 2024-05-01 02:43:29.820926
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:43:29.828955
+
+[10] Log opened at 2024-05-01 02:43:29.829340
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:43:29.941853
+
+[10] Log closed at 2024-05-01 02:43:29.945219
+
+[11] Log opened at 2024-05-01 02:43:29.945696
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:30.053337
+
+[9] Log opened at 2024-05-01 02:43:32.420952
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:43:32.500942
+
+[10] Log opened at 2024-05-01 02:43:32.501439
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:43:32.608572
+
+[11] Log opened at 2024-05-01 02:43:32.828389
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:43:32.932967
+
+[9] Log opened at 2024-05-01 02:43:32.933548
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:43:32.999351
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:43:33.127888
+
+[10] Log closed at 2024-05-01 02:43:33.139784
+
+[11] Log opened at 2024-05-01 02:43:33.140334
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:43:33.161600
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:43:33.282612
+
+[11] Log closed at 2024-05-01 02:43:33.305899
+
+[10] Log opened at 2024-05-01 02:43:33.306416
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:43:33.424892
+
+[9] Log opened at 2024-05-01 02:44:35.606284
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:44:35.719487
+
+[11] Log opened at 2024-05-01 02:44:35.720282
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:44:35.875531
+
+[10] Log opened at 2024-05-01 02:44:36.431832
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:44:36.434011
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:44:36.547005
+
+[11] Log opened at 2024-05-01 02:44:36.547779
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:44:36.579437
+
+[9] Log opened at 2024-05-01 02:44:36.580241
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:44:36.765844
+
+[11] Log closed at 2024-05-01 02:44:36.767709
+
+[10] Log opened at 2024-05-01 02:44:41.270869
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:44:41.369149
+
+[9] Log opened at 2024-05-01 02:44:41.369997
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:44:41.478797
+
+[11] Log opened at 2024-05-01 02:44:41.828894
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:44:41.830253
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:44:41.946057
+
+[9] Log opened at 2024-05-01 02:44:41.946574
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:44:41.950805
+
+[11] Log opened at 2024-05-01 02:44:41.951069
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:44:42.108126
+
+[11] Log closed at 2024-05-01 02:44:42.130116
+
+[10] Log opened at 2024-05-01 02:46:03.337002
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:46:03.415811
+
+[9] Log opened at 2024-05-01 02:46:03.416598
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:03.525517
+
+[11] Log opened at 2024-05-01 02:46:03.822761
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:46:03.918825
+
+[10] Log opened at 2024-05-01 02:46:03.919846
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:46:04.039021
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:46:04.069044
+
+[11] Log opened at 2024-05-01 02:46:04.086806
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:46:04.172997
+
+[10] Log opened at 2024-05-01 02:46:04.173564
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:46:04.227490
+
+[10] Log closed at 2024-05-01 02:46:04.333788
+
+[9] Log opened at 2024-05-01 02:46:04.335341
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:04.448444
+
+[11] Log opened at 2024-05-01 02:46:07.188608
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:46:07.285013
+
+[10] Log opened at 2024-05-01 02:46:07.285834
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:46:07.412721
+
+[9] Log opened at 2024-05-01 02:46:07.617366
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:07.749979
+
+[11] Log opened at 2024-05-01 02:46:07.750397
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:46:07.841621
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:46:07.929330
+
+[9] Log opened at 2024-05-01 02:46:07.942110
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:46:07.957504
+
+[11] Log opened at 2024-05-01 02:46:07.957878
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:46:08.076650
+
+[11] Log closed at 2024-05-01 02:46:08.114576
+
+[10] Log opened at 2024-05-01 02:46:08.115240
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:46:08.237625
+
+[9] Log opened at 2024-05-01 02:46:48.001351
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:48.108848
+
+[11] Log opened at 2024-05-01 02:46:48.109762
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:46:48.266983
+
+[10] Log opened at 2024-05-01 02:46:48.630037
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:46:48.631518
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:48.770390
+
+[11] Log opened at 2024-05-01 02:46:48.770715
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:46:48.781708
+
+[9] Log opened at 2024-05-01 02:46:48.783329
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:48.931303
+
+[11] Log closed at 2024-05-01 02:46:48.949065
+
+[10] Log opened at 2024-05-01 02:46:57.079133
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:46:57.169477
+
+[9] Log opened at 2024-05-01 02:46:57.170145
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:57.308902
+
+[11] Log opened at 2024-05-01 02:46:57.507808
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:46:57.616207
+
+[10] Log opened at 2024-05-01 02:46:57.617074
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:46:57.761061
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:46:57.800025
+
+[11] Log opened at 2024-05-01 02:46:57.817205
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:46:57.890854
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:46:57.898102
+
+[11] Log closed at 2024-05-01 02:46:57.948032
+
+[10] Log closed at 2024-05-01 02:46:58.027766
+
+[9] Log opened at 2024-05-01 02:46:58.028373
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:46:58.143436
+
+[11] Log opened at 2024-05-01 02:49:32.885002
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:49:32.885251
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:49:33.032831
+
+[10] Log closed at 2024-05-01 02:49:33.033038
+
+[9] Log opened at 2024-05-01 02:49:33.034217
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:49:33.196403
+
+[11] Log opened at 2024-05-01 02:49:33.196473
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:49:33.232358
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:49:33.232668
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:49:33.354942
+
+[9] Log opened at 2024-05-01 02:49:33.355964
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:49:33.363472
+
+[11] Log closed at 2024-05-01 02:49:33.370502
+
+[10] Log opened at 2024-05-01 02:49:33.370917
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:49:33.386551
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:49:33.490824
+
+[11] Log opened at 2024-05-01 02:49:33.491684
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:49:33.498968
+
+[10] Log closed at 2024-05-01 02:49:33.542921
+
+[9] Log opened at 2024-05-01 02:49:33.543614
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:49:33.602628
+
+[10] Log opened at 2024-05-01 02:49:33.603362
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:49:33.673077
+
+[10] Log closed at 2024-05-01 02:49:33.730193
+
+[11] Log opened at 2024-05-01 02:49:39.679362
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:49:39.679436
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:49:39.776694
+
+[10] Log opened at 2024-05-01 02:49:39.777395
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:49:39.810366
+
+[11] Log opened at 2024-05-01 02:49:39.810997
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:49:39.915647
+
+[9] Log opened at 2024-05-01 02:49:39.947405
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:49:39.947569
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:49:39.966096
+
+[11] Log opened at 2024-05-01 02:49:39.994013
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:49:40.069249
+
+[10] Log opened at 2024-05-01 02:49:40.070131
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:49:40.087871
+
+[9] Log opened at 2024-05-01 02:49:40.088778
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:49:40.126492
+
+[11] Log opened at 2024-05-01 02:49:40.127406
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:49:40.184254
+
+[9] Log closed at 2024-05-01 02:49:40.191792
+
+[10] Log opened at 2024-05-01 02:49:40.192503
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:49:40.276987
+
+[9] Log opened at 2024-05-01 02:49:40.277458
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:49:40.285736
+
+[9] Log closed at 2024-05-01 02:49:40.387287
+
+[11] Log opened at 2024-05-01 02:50:06.791484
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:50:06.791513
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:50:06.877707
+
+[9] Log opened at 2024-05-01 02:50:06.878335
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:50:06.882172
+
+[9] Log closed at 2024-05-01 02:50:06.979539
+
+[11] Log opened at 2024-05-01 02:50:06.980419
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:50:07.082860
+
+[10] Log opened at 2024-05-01 02:50:11.916516
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:50:11.997912
+
+[9] Log opened at 2024-05-01 02:50:11.998461
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:50:12.129735
+
+[11] Log opened at 2024-05-01 02:50:55.201972
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:50:55.208177
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:50:55.310164
+
+[9] Log opened at 2024-05-01 02:50:55.310782
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:50:55.331606
+
+[9] Log closed at 2024-05-01 02:50:55.467670
+
+[11] Log opened at 2024-05-01 02:50:55.467710
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:50:55.502867
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:50:55.509512
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:50:55.617077
+
+[11] Log closed at 2024-05-01 02:50:55.632340
+
+[10] Log opened at 2024-05-01 02:50:55.632826
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:50:55.635663
+
+[11] Log opened at 2024-05-01 02:50:55.636490
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:50:55.648717
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:50:55.747641
+
+[11] Log opened at 2024-05-01 02:50:55.748482
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log closed at 2024-05-01 02:50:55.756493
+
+[10] Log closed at 2024-05-01 02:50:55.796597
+
+[9] Log opened at 2024-05-01 02:50:55.796947
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:50:55.865073
+
+[10] Log opened at 2024-05-01 02:50:55.865619
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:50:55.945539
+
+[10] Log closed at 2024-05-01 02:50:55.969108
+
+[11] Log opened at 2024-05-01 02:50:58.706123
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] Log opened at 2024-05-01 02:50:58.707410
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:50:58.818797
+
+[10] Log opened at 2024-05-01 02:50:58.819720
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:50:58.825047
+
+[9] Log opened at 2024-05-01 02:50:58.825883
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:50:58.989909
+
+[9] Log closed at 2024-05-01 02:50:58.995259
+
+[10] Log opened at 2024-05-01 02:50:59.018621
+[11] Log opened at 2024-05-01 02:50:59.018544
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:50:59.138227
+
+[9] Log opened at 2024-05-01 02:50:59.139507
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:50:59.154872
+
+[11] Log opened at 2024-05-01 02:50:59.155880
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:50:59.257316
+
+[9] Log closed at 2024-05-01 02:50:59.279818
+
+[10] Log opened at 2024-05-01 02:51:05.705580
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:51:05.705614
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:51:05.804603
+
+[9] Log opened at 2024-05-01 02:51:05.806029
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:51:05.806543
+
+[9] Log closed at 2024-05-01 02:51:05.922144
+
+[11] Log opened at 2024-05-01 02:51:05.922835
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:51:05.955970
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:51:05.957393
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:51:06.067981
+
+[11] Log closed at 2024-05-01 02:51:06.075741
+
+[9] Log closed at 2024-05-01 02:51:06.075812
+
+[10] Log opened at 2024-05-01 02:51:06.077250
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:51:06.077360
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log opened at 2024-05-01 02:51:06.096702
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:51:06.191516
+
+[11] Log opened at 2024-05-01 02:51:06.192305
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:51:06.195195
+
+[9] Log closed at 2024-05-01 02:51:06.223109
+
+[10] Log opened at 2024-05-01 02:51:06.223475
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:51:06.285974
+
+[9] Log opened at 2024-05-01 02:51:06.287206
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:51:06.358657
+
+[9] Log closed at 2024-05-01 02:51:06.389126
+
+[11] Log opened at 2024-05-01 02:51:25.580397
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:51:25.581254
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:51:25.686949
+
+[10] Log closed at 2024-05-01 02:51:25.688263
+
+[11] Log opened at 2024-05-01 02:51:25.690000
+[9] Log opened at 2024-05-01 02:51:25.690000
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:51:25.810935
+
+[11] Log closed at 2024-05-01 02:51:25.824348
+
+[10] Log opened at 2024-05-01 02:51:25.841661
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:51:25.842431
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log opened at 2024-05-01 02:51:25.853200
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:51:25.980011
+
+[9] Log closed at 2024-05-01 02:51:25.980818
+
+[10] Log opened at 2024-05-01 02:51:25.980960
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:51:25.982647
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[11] Log closed at 2024-05-01 02:51:25.993215
+
+[11] Log opened at 2024-05-01 02:51:25.994021
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:51:26.099117
+
+[11] Log closed at 2024-05-01 02:51:26.130738
+
+[10] Log opened at 2024-05-01 02:51:26.131032
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:51:26.158561
+
+[11] Log opened at 2024-05-01 02:51:26.158762
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:51:26.231927
+
+[11] Log closed at 2024-05-01 02:51:26.288324
+
+[9] Log opened at 2024-05-01 02:51:30.759336
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[9] Log closed at 2024-05-01 02:51:30.841231
+
+[10] Log opened at 2024-05-01 02:51:35.837007
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:51:35.919492
+
+[11] Log opened at 2024-05-01 02:51:35.919840
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:51:36.016358
+
+[10] Log opened at 2024-05-01 02:51:45.217881
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:51:45.217863
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:51:45.342773
+
+[9] Log closed at 2024-05-01 02:51:45.343305
+
+[11] Log opened at 2024-05-01 02:51:50.308442
+[10] Log opened at 2024-05-01 02:51:50.308452
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:51:50.426037
+
+[11] Log closed at 2024-05-01 02:51:50.428291
+
+[9] Log opened at 2024-05-01 02:51:56.167117
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:51:56.167189
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log closed at 2024-05-01 02:51:56.292208
+
+[10] Log closed at 2024-05-01 02:51:56.293774
+
+[11] Log opened at 2024-05-01 02:51:56.295175
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:51:56.418244
+
+[9] Log opened at 2024-05-01 02:51:56.419016
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log opened at 2024-05-01 02:51:56.447402
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:51:56.447775
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:51:56.571751
+
+[16] Log opened at 2024-05-01 02:51:56.573741
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[10] Log closed at 2024-05-01 02:51:56.574344
+
+[9] Log closed at 2024-05-01 02:51:56.592151
+
+[11] Log opened at 2024-05-01 02:51:56.592339
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:51:56.604801
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[9] Log opened at 2024-05-01 02:51:56.605469
+[9] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.9'
+[10] Log closed at 2024-05-01 02:51:56.718674
+
+[11] Log closed at 2024-05-01 02:51:56.739115
+
+[10] Log opened at 2024-05-01 02:51:56.739963
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[16] Log closed at 2024-05-01 02:51:56.741574
+
+[9] Log closed at 2024-05-01 02:51:56.749189
+
+[11] Log opened at 2024-05-01 02:51:56.750268
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:51:56.850890
+
+[10] Log closed at 2024-05-01 02:51:56.869694
+
+[16] Log opened at 2024-05-01 02:52:00.778753
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log opened at 2024-05-01 02:52:00.779100
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:52:00.881602
+
+[16] Log closed at 2024-05-01 02:52:00.882121
+
+[10] Log opened at 2024-05-01 02:52:00.883468
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:52:01.016665
+
+[11] Log opened at 2024-05-01 02:52:01.017150
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log opened at 2024-05-01 02:52:01.044628
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[10] Log opened at 2024-05-01 02:52:01.047739
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:52:01.158255
+
+[10] Log opened at 2024-05-01 02:52:01.159540
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[16] Log closed at 2024-05-01 02:52:01.161519
+
+[11] Log closed at 2024-05-01 02:52:01.168406
+
+[16] Log opened at 2024-05-01 02:52:01.169188
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log opened at 2024-05-01 02:52:01.184481
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:52:01.299004
+
+[10] Log opened at 2024-05-01 02:52:01.299901
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[16] Log closed at 2024-05-01 02:52:01.312090
+
+[11] Log closed at 2024-05-01 02:52:01.319718
+
+[16] Log opened at 2024-05-01 02:52:01.320449
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[10] Log closed at 2024-05-01 02:52:01.402678
+
+[11] Log opened at 2024-05-01 02:52:01.403187
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:52:01.450149
+
+[11] Log closed at 2024-05-01 02:52:01.494178
+
+[10] Log opened at 2024-05-01 02:52:04.317471
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:52:04.397845
+
+[16] Log opened at 2024-05-01 02:52:29.529697
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:52:29.685923
+
+[16] Log opened at 2024-05-01 02:52:29.686743
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:52:29.925461
+
+[10] Log opened at 2024-05-01 02:52:33.982638
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:52:33.982812
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:52:34.142955
+
+[16] Log opened at 2024-05-01 02:52:34.143155
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log closed at 2024-05-01 02:52:34.147687
+
+[10] Log opened at 2024-05-01 02:52:34.148545
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[10] Log closed at 2024-05-01 02:52:34.291599
+
+[16] Log closed at 2024-05-01 02:52:34.294933
+
+[11] Log opened at 2024-05-01 02:52:34.330740
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log opened at 2024-05-01 02:52:34.331087
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log closed at 2024-05-01 02:52:34.456950
+
+[16] Log opened at 2024-05-01 02:52:34.457909
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[10] Log closed at 2024-05-01 02:52:34.462970
+
+[11] Log opened at 2024-05-01 02:52:34.462971
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:52:34.615185
+
+[11] Log closed at 2024-05-01 02:52:34.642843
+
+[10] Log opened at 2024-05-01 02:52:44.065832
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[16] Log opened at 2024-05-01 02:52:44.066194
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:52:44.204626
+
+[11] Log opened at 2024-05-01 02:52:44.205008
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:52:44.210730
+
+[11] Log closed at 2024-05-01 02:52:44.312966
+
+[16] Log opened at 2024-05-01 02:52:44.313658
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[10] Log opened at 2024-05-01 02:52:44.368033
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[11] Log opened at 2024-05-01 02:52:44.370274
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:52:44.495542
+
+[16] Log opened at 2024-05-01 02:52:44.511450
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log closed at 2024-05-01 02:52:44.512880
+
+[11] Log opened at 2024-05-01 02:52:44.513563
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:52:44.523025
+
+[10] Log opened at 2024-05-01 02:52:44.524006
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[17] Log opened at 2024-05-01 02:52:44.551940
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[10] Log closed at 2024-05-01 02:52:44.629472
+
+[16] Log closed at 2024-05-01 02:52:44.646062
+
+[11] Log closed at 2024-05-01 02:52:44.646081
+
+[10] Log opened at 2024-05-01 02:52:44.647473
+[10] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.10'
+[17] Log closed at 2024-05-01 02:52:44.701541
+
+[11] Log opened at 2024-05-01 02:52:44.702270
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[10] Log closed at 2024-05-01 02:52:44.755208
+
+[11] Log closed at 2024-05-01 02:52:44.830490
+
+[16] Log opened at 2024-05-01 02:52:46.652557
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:52:46.733882
+
+[17] Log opened at 2024-05-01 02:52:46.734430
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:52:46.811022
+
+[11] Log opened at 2024-05-01 02:52:47.740122
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:52:47.816821
+
+[16] Log opened at 2024-05-01 02:52:47.817914
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:52:47.911217
+
+[17] Log opened at 2024-05-01 02:53:01.491946
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log opened at 2024-05-01 02:53:01.491957
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log closed at 2024-05-01 02:53:01.595889
+
+[11] Log closed at 2024-05-01 02:53:01.596341
+
+[16] Log opened at 2024-05-01 02:53:01.598245
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:53:01.720889
+
+[17] Log opened at 2024-05-01 02:53:01.720987
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log opened at 2024-05-01 02:53:01.752764
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log opened at 2024-05-01 02:53:01.753714
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:53:01.860535
+
+[16] Log opened at 2024-05-01 02:53:01.861341
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log closed at 2024-05-01 02:53:01.866342
+
+[17] Log closed at 2024-05-01 02:53:01.867665
+
+[11] Log opened at 2024-05-01 02:53:01.868946
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log opened at 2024-05-01 02:53:01.882336
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:53:01.981125
+
+[17] Log opened at 2024-05-01 02:53:01.981647
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:53:02.014248
+
+[11] Log opened at 2024-05-01 02:53:02.015097
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:53:02.023153
+
+[17] Log closed at 2024-05-01 02:53:02.075160
+
+[16] Log opened at 2024-05-01 02:53:02.076423
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log closed at 2024-05-01 02:53:02.141313
+
+[16] Log closed at 2024-05-01 02:53:02.213913
+
+[17] Log opened at 2024-05-01 02:53:20.955236
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:53:21.089826
+
+[11] Log opened at 2024-05-01 02:53:21.091297
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:53:21.237522
+
+[16] Log opened at 2024-05-01 02:53:39.450512
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log opened at 2024-05-01 02:53:39.450692
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:53:39.580152
+
+[17] Log closed at 2024-05-01 02:53:39.582836
+
+[11] Log opened at 2024-05-01 02:53:42.853273
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log opened at 2024-05-01 02:53:42.853662
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log closed at 2024-05-01 02:53:42.995673
+
+[16] Log closed at 2024-05-01 02:53:43.009254
+
+[17] Log opened at 2024-05-01 02:53:47.904489
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:53:47.989712
+
+[11] Log opened at 2024-05-01 02:53:49.392949
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:53:49.476188
+
+[16] Log opened at 2024-05-01 02:53:55.358093
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:53:55.469212
+
+[17] Log opened at 2024-05-01 02:54:14.211062
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:14.299555
+
+[11] Log opened at 2024-05-01 02:54:14.301267
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:14.424815
+
+[16] Log opened at 2024-05-01 02:54:14.653052
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:14.758598
+
+[17] Log opened at 2024-05-01 02:54:14.759699
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log opened at 2024-05-01 02:54:14.831383
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log closed at 2024-05-01 02:54:14.933227
+
+[11] Log closed at 2024-05-01 02:54:14.953019
+
+[16] Log opened at 2024-05-01 02:54:14.954319
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log opened at 2024-05-01 02:54:14.965794
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:15.068438
+
+[16] Log closed at 2024-05-01 02:54:15.110079
+
+[11] Log opened at 2024-05-01 02:54:15.110656
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:15.221864
+
+[17] Log opened at 2024-05-01 02:54:17.859767
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:17.954684
+
+[16] Log opened at 2024-05-01 02:54:17.955300
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:18.096725
+
+[11] Log opened at 2024-05-01 02:54:18.320694
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:18.419456
+
+[17] Log opened at 2024-05-01 02:54:18.419780
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log opened at 2024-05-01 02:54:18.583076
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:54:18.599824
+
+[11] Log opened at 2024-05-01 02:54:18.633965
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:54:18.703929
+
+[17] Log opened at 2024-05-01 02:54:18.704680
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:54:18.750354
+
+[17] Log closed at 2024-05-01 02:54:18.825228
+
+[16] Log opened at 2024-05-01 02:54:18.825890
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:18.938778
+
+[11] Log opened at 2024-05-01 02:54:21.164265
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:21.250975
+
+[17] Log opened at 2024-05-01 02:54:21.252119
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:21.373817
+
+[16] Log opened at 2024-05-01 02:54:21.584572
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:21.702767
+
+[11] Log opened at 2024-05-01 02:54:21.703599
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log opened at 2024-05-01 02:54:21.779795
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:54:21.883279
+
+[16] Log opened at 2024-05-01 02:54:21.894972
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:54:21.917891
+
+[11] Log opened at 2024-05-01 02:54:21.919325
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:54:22.003720
+
+[11] Log closed at 2024-05-01 02:54:22.044923
+
+[17] Log opened at 2024-05-01 02:54:22.046272
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:22.162112
+
+[16] Log opened at 2024-05-01 02:54:24.036646
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:24.142472
+
+[11] Log opened at 2024-05-01 02:54:24.142924
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:24.265389
+
+[17] Log opened at 2024-05-01 02:54:24.479452
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:24.577869
+
+[16] Log opened at 2024-05-01 02:54:24.578406
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log opened at 2024-05-01 02:54:24.672280
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:54:24.758895
+
+[17] Log opened at 2024-05-01 02:54:24.772576
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:54:24.810007
+
+[16] Log opened at 2024-05-01 02:54:24.809933
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:54:24.890648
+
+[16] Log closed at 2024-05-01 02:54:24.947650
+
+[11] Log opened at 2024-05-01 02:54:24.948824
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:25.057819
+
+[17] Log opened at 2024-05-01 02:54:28.535144
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:28.616123
+
+[16] Log opened at 2024-05-01 02:54:28.617134
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:28.729243
+
+[11] Log opened at 2024-05-01 02:54:28.744379
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:28.834853
+
+[17] Log opened at 2024-05-01 02:54:28.835669
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:28.939823
+
+[16] Log opened at 2024-05-01 02:54:48.133454
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:48.233326
+
+[11] Log opened at 2024-05-01 02:54:48.234921
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:48.403036
+
+[17] Log opened at 2024-05-01 02:54:48.454573
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:48.555440
+
+[16] Log opened at 2024-05-01 02:54:48.556481
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:48.692510
+
+[11] Log opened at 2024-05-01 02:54:49.050900
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:54:49.181976
+
+[11] Log opened at 2024-05-01 02:54:49.188368
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log opened at 2024-05-01 02:54:49.287489
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log opened at 2024-05-01 02:54:49.289376
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:54:49.353771
+
+[16] Log closed at 2024-05-01 02:54:49.400556
+
+[11] Log opened at 2024-05-01 02:54:49.402124
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log closed at 2024-05-01 02:54:49.404972
+
+[16] Log opened at 2024-05-01 02:54:49.405410
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:49.550956
+
+[11] Log closed at 2024-05-01 02:54:49.573718
+
+[17] Log opened at 2024-05-01 02:54:53.578839
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:53.702787
+
+[16] Log opened at 2024-05-01 02:54:53.703693
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:53.824006
+
+[11] Log opened at 2024-05-01 02:54:54.113091
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log opened at 2024-05-01 02:54:54.115734
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:54:54.254333
+
+[16] Log opened at 2024-05-01 02:54:54.255247
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:54:54.261014
+
+[11] Log opened at 2024-05-01 02:54:54.261873
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:54:54.411453
+
+[11] Log closed at 2024-05-01 02:54:54.425015
+
+[17] Log opened at 2024-05-01 02:54:57.067013
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:54:57.153627
+
+[16] Log opened at 2024-05-01 02:54:57.153806
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:54:57.263205
+
+[11] Log opened at 2024-05-01 02:55:50.220475
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:55:50.330164
+
+[17] Log opened at 2024-05-01 02:55:50.330883
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:55:50.474998
+
+[16] Log opened at 2024-05-01 02:55:50.815251
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log opened at 2024-05-01 02:55:50.816863
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:55:50.936026
+
+[17] Log opened at 2024-05-01 02:55:50.936656
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:55:50.941717
+
+[11] Log opened at 2024-05-01 02:55:50.941952
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:55:51.106573
+
+[17] Log closed at 2024-05-01 02:55:51.123634
+
+[16] Log opened at 2024-05-01 02:56:01.283020
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:56:01.367634
+
+[11] Log opened at 2024-05-01 02:56:01.368613
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:56:01.480679
+
+[17] Log opened at 2024-05-01 02:56:01.573770
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log opened at 2024-05-01 02:56:01.574721
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:56:01.670644
+
+[16] Log closed at 2024-05-01 02:56:01.672205
+
+[11] Log opened at 2024-05-01 02:56:01.671953
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log opened at 2024-05-01 02:56:01.672373
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:56:01.789848
+
+[17] Log closed at 2024-05-01 02:56:01.809283
+
+[16] Log opened at 2024-05-01 02:56:03.190612
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:56:03.268527
+
+[11] Log opened at 2024-05-01 02:56:03.269136
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:56:03.382773
+
+[17] Log opened at 2024-05-01 02:56:03.385284
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:56:03.470437
+
+[16] Log opened at 2024-05-01 02:59:24.954187
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log opened at 2024-05-01 02:59:24.954374
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:59:25.071094
+
+[17] Log opened at 2024-05-01 02:59:25.072122
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:59:25.077611
+
+[17] Log closed at 2024-05-01 02:59:25.196546
+
+[11] Log opened at 2024-05-01 02:59:25.197309
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log opened at 2024-05-01 02:59:25.257622
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log opened at 2024-05-01 02:59:25.257793
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:59:25.358865
+
+[17] Log opened at 2024-05-01 02:59:25.360173
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:59:25.363691
+
+[16] Log closed at 2024-05-01 02:59:25.374101
+
+[11] Log opened at 2024-05-01 02:59:25.374821
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log opened at 2024-05-01 02:59:25.392847
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:59:25.461777
+
+[17] Log opened at 2024-05-01 02:59:25.462311
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:59:25.485908
+
+[11] Log closed at 2024-05-01 02:59:25.503085
+
+[16] Log opened at 2024-05-01 02:59:25.503551
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:59:25.550266
+
+[11] Log opened at 2024-05-01 02:59:25.550926
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log closed at 2024-05-01 02:59:25.612006
+
+[11] Log closed at 2024-05-01 02:59:25.630816
+
+[17] Log opened at 2024-05-01 02:59:31.816164
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log opened at 2024-05-01 02:59:31.816503
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:59:31.901840
+
+[17] Log closed at 2024-05-01 02:59:31.901884
+
+[11] Log opened at 2024-05-01 02:59:31.903585
+[17] Log opened at 2024-05-01 02:59:31.903585
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] Log closed at 2024-05-01 02:59:32.022584
+
+[17] Log closed at 2024-05-01 02:59:32.022866
+
+[16] Log opened at 2024-05-01 02:59:32.040592
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log opened at 2024-05-01 02:59:32.040606
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:59:32.141466
+
+[17] Log opened at 2024-05-01 02:59:32.142300
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:59:32.147111
+
+[11] Log opened at 2024-05-01 02:59:32.147818
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] Log closed at 2024-05-01 02:59:32.239394
+
+[11] Log closed at 2024-05-01 02:59:32.269172
+
+[16] Log opened at 2024-05-01 02:59:35.994918
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log opened at 2024-05-01 02:59:35.994918
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:59:36.092290
+
+[17] Log closed at 2024-05-01 02:59:36.093437
+
+[11] Log opened at 2024-05-01 02:59:36.094088
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:59:36.193993
+
+[16] Log opened at 2024-05-01 02:59:36.194577
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log opened at 2024-05-01 02:59:36.229693
+[11] Log opened at 2024-05-01 02:59:36.229693
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:59:36.355562
+
+[16] Log closed at 2024-05-01 02:59:36.363398
+
+[11] Log opened at 2024-05-01 02:59:36.363832
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[16] Log opened at 2024-05-01 02:59:36.370367
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:59:36.374824
+
+[17] Log opened at 2024-05-01 02:59:36.375470
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:59:36.462746
+
+[16] Log opened at 2024-05-01 02:59:36.463277
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[17] Log closed at 2024-05-01 02:59:36.507276
+
+[11] Log closed at 2024-05-01 02:59:36.530758
+
+[17] Log opened at 2024-05-01 02:59:36.531473
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[16] Log closed at 2024-05-01 02:59:36.552284
+
+[16] Log opened at 2024-05-01 02:59:36.553426
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:59:36.641847
+
+[17] Log closed at 2024-05-01 02:59:36.649272
+
+[11] Log opened at 2024-05-01 02:59:41.005773
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:59:41.092991
+
+[16] Log opened at 2024-05-01 02:59:41.093921
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[16] Log closed at 2024-05-01 02:59:41.223284
+
+[17] Log opened at 2024-05-01 02:59:41.247660
+[11] Log opened at 2024-05-01 02:59:41.247660
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[17] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.17'
+[17] Log closed at 2024-05-01 02:59:41.367914
+
+[11] Log closed at 2024-05-01 02:59:41.367963
+
+[16] Log opened at 2024-05-01 02:59:41.370236
+[16] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.16'
+[11] Log opened at 2024-05-01 02:59:41.371043
+[11] [Config] INFO: Control socket set up succesfully: '@xdebug-ctrl.11'
+[11] Log closed at 2024-05-01 02:59:41.489180
+
+[16] Log closed at 2024-05-01 02:59:41.507921
+

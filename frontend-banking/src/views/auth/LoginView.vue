@@ -7,10 +7,10 @@
         </div>
         <form class="sign-up-form" @submit.prevent="authenticate">
           <div class="form-group">
-            <input v-model="userData.email" type="email" name="email" class="form-input" placeholder="Email" required />
+            <input v-model="userData.email" type="email" name="email" class="form-input" placeholder="Email" required maxlength="50"/>
           </div>
           <div class="form-group">
-            <input v-model="userData.password" type="password" name="password" class="form-input" placeholder="Password"
+            <input v-model="userData.password" type="password" name="password" class="form-input" placeholder="Password" maxlength="20"
               required />
           </div>
           <button type="submit" class="sign-up-btn">LOGIN</button>
